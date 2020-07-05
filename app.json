@@ -1,0 +1,12 @@
+{
+  "name": "rbnb",
+  "displayName": "rbnb",
+  "expo": {
+    "name": "rbnb",
+    "slug": "rbnb",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
