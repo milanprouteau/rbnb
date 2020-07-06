@@ -7,7 +7,6 @@ import {
     TouchableOpacity,
     TouchableHighlight
 } from 'react-native';
-import city from '../assets/city.jpg';
 import Helpers from "../helpers/Helpers";
 
 class EventBox extends Component{
@@ -19,21 +18,18 @@ class EventBox extends Component{
 
     render() {
 
-        let {title, cover_url, category} = this.props.data;
+        let {city, street} = this.props.data;
         let {horizontal} = this.props;
 
         return (
-            <TouchableOpacity onPress={() => this.details()}>
-                <View style={horizontal ? [styles.container, styles.containerHorizontal] : styles.container}>
-
-                    <Image source={{uri: cover_url}} style={styles.headerImage} resizeMode={"cover"}/>
-
-                    <View style={styles.body}>
-                        <Text style={styles.title}>{title}</Text>
-                        <Text style={styles.subtitle}>{Helpers.extractParentCategory(category)}</Text>
-                    </View>
+        <TouchableOpacity onPress={() => this.details()}>
+            <View style={horizontal ? [styles.container, styles.containerHorizontal] : styles.container}>
+                <View style={styles.body}>
+                    <Text style={styles.title}>{street}</Text>
+                    <Text style={styles.title}>{city}</Text>
                 </View>
-            </TouchableOpacity>
+            </View>
+        </TouchableOpacity>
         )
     }
 

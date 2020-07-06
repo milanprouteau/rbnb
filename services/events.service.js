@@ -1,6 +1,9 @@
 import Helpers from "../helpers/Helpers";
+import data from "../data/data.json";
 
 const baseUrl = "https://opendata.paris.fr/api/records/1.0/search/?dataset=que-faire-a-paris-";
+const newData = "https://public.opendatasoft.com/api/records/1.0/search/?dataset=airbnb-listings&q=&lang=fr&rows=20&facet=city&facet=country&facet=property_type&facet=room_type&facet=bed_type&facet=amenities&timezone=Europe%2FParis";
+
 
 class EventsService{
 
@@ -10,9 +13,9 @@ class EventsService{
      * @param rows
      * @returns {Promise<*>}
      */
-    static async list(rows = 20){
+    static async list(){
         let init = {method: "GET"};
-        let call = await fetch(`${baseUrl}&rows=${rows}`, init);
+        let call = await fetch(`${newData}`, init);
         let response = await call.json();
         return response.records;
     }

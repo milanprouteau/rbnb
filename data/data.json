@@ -1,0 +1,4570 @@
+{
+    "nhits": 494954,
+    "parameters": {
+      "dataset": "airbnb-listings",
+      "timezone": "Europe/Paris",
+      "rows": 20,
+      "format": "json",
+      "lang": "fr",
+      "facet": [
+        "city",
+        "country",
+        "property_type",
+        "room_type",
+        "bed_type",
+        "amenities"
+      ]
+    },
+    "records": [
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "640f46532565dd769d8ccad743eb6525d86af273",
+        "fields": {
+          "geolocation": [
+            38.00138633123956,
+            23.73635923694514
+          ],
+          "bathrooms": 1.0,
+          "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+          "cancellation_policy": "flexible",
+          "accommodates": 5,
+          "calendar_last_scraped": "2017-05-09",
+          "neighbourhood_cleansed": "ΚΥΨΕΛΗ",
+          "host_neighbourhood": "Kypseli",
+          "street": "Kypseli, Athina, 113 61, Greece",
+          "calendar_updated": "3 weeks ago",
+          "country_code": "GR",
+          "property_type": "Apartment",
+          "availability_365": 180,
+          "id": "8915368",
+          "market": "Athens",
+          "city": "Athina",
+          "availability_60": 60,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(165, 146, 122, 1.00)",
+              "rgba(152, 119, 94, 1.00)",
+              "rgba(123, 91, 66, 1.00)"
+            ],
+            "filename": "cad4f84f-d365-42f2-9b6c-0400cddbfb87.jpg",
+            "width": 639,
+            "id": "14909b7e18a55ba0b772530b63c08675",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "113 61",
+          "host_location": "Kapandriti, Attica, Greece",
+          "availability_90": 90,
+          "amenities": "TV,Wireless Internet,Kitchen,Smoking allowed,Elevator in building,Heating,Family/kid friendly,Washer,Essentials,Shampoo,24-hour check-in,Hangers,Hair dryer,Iron,Laptop friendly workspace",
+          "host_listings_count": 2,
+          "maximum_nights": 1125,
+          "listing_url": "https://www.airbnb.com/rooms/8915368",
+          "latitude": "38.00138633123956",
+          "last_scraped": "2017-05-09",
+          "host_since": "2015-10-15",
+          "bedrooms": 2,
+          "description": "Really old furniture,really close to pedestrian street fokionos negri full of cafe bars etc. 5 min to 24/7 buss 10 min walk to metro.",
+          "experiences_offered": "none",
+          "price": 10,
+          "host_picture_url": "https://a0.muscache.com/im/pictures/dcb1c4a2-9a59-41b8-93f4-19e8afd8ab49.jpg?aki_policy=profile_x_medium",
+          "extra_people": 7,
+          "smart_location": "Athina, Greece",
+          "host_verifications": "email,phone,reviews,jumio,government_id",
+          "number_of_reviews": 0,
+          "host_response_rate": 0,
+          "host_about": "I am panagiotis and i am studying electrical engineering.I am also Esner so its really easy for you to find everything that you need:)",
+          "guests_included": 1,
+          "host_url": "https://www.airbnb.com/users/show/46625841",
+          "host_id": "46625841",
+          "availability_30": 30,
+          "neighbourhood": "Kypseli",
+          "calculated_host_listings_count": 1,
+          "name": "Cheap stay in athens",
+          "bed_type": "Real Bed",
+          "country": "Greece",
+          "host_response_time": "a few days or more",
+          "longitude": "23.73635923694514",
+          "summary": "Really old furniture,really close to pedestrian street fokionos negri full of cafe bars etc. 5 min to 24/7 buss 10 min walk to metro.",
+          "beds": 3,
+          "minimum_nights": 2,
+          "cleaning_fee": 5,
+          "host_name": "Panagiotis",
+          "scrape_id": "20170509084221",
+          "host_total_listings_count": 2,
+          "host_thumbnail_url": "https://a0.muscache.com/im/pictures/dcb1c4a2-9a59-41b8-93f4-19e8afd8ab49.jpg?aki_policy=profile_small",
+          "room_type": "Entire home/apt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.73635923694514,
+            38.00138633123956
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:37.852000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "cb54c882cf4a420e3cc319e2ba3c28e8c99233e4",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 0.28,
+          "bathrooms": 1.0,
+          "first_review": "2016-10-07",
+          "geolocation": [
+            37.997788008740564,
+            23.735830750366503
+          ],
+          "cancellation_policy": "strict",
+          "accommodates": 2,
+          "calendar_last_scraped": "2017-05-09",
+          "medium_url": "https://a0.muscache.com/im/pictures/a8f7f29e-3012-469a-b1bc-a842ef774354.jpg?aki_policy=medium",
+          "host_neighbourhood": "Pedion Areos",
+          "street": "Pedion Areos, Athina, 112 57, Greece",
+          "review_scores_communication": 10,
+          "calendar_updated": "5 days ago",
+          "country_code": "GR",
+          "review_scores_cleanliness": 10,
+          "property_type": "Apartment",
+          "availability_365": 331,
+          "id": "15212560",
+          "market": "Athens",
+          "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact,Instant Bookable",
+          "city": "Athina",
+          "availability_60": 26,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(187, 191, 175, 1.00)",
+              "rgba(136, 127, 107, 1.00)",
+              "rgba(149, 120, 136, 1.00)"
+            ],
+            "filename": "a8f7f29e-3012-469a-b1bc-a842ef774354.jpg",
+            "width": 639,
+            "id": "69a6b4a536fb6f751510b0033552f07b",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "112 57",
+          "host_location": "Athens, Attica, Greece",
+          "availability_90": 56,
+          "review_scores_value": 10,
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/a8f7f29e-3012-469a-b1bc-a842ef774354.jpg?aki_policy=small",
+          "amenities": "TV,Wireless Internet,Air conditioning,Wheelchair accessible,Kitchen,Smoking allowed,Elevator in building,Family/kid friendly,First aid kit,Essentials,Shampoo,Lock on bedroom door,Hangers,Hair dryer",
+          "host_listings_count": 10,
+          "maximum_nights": 1125,
+          "listing_url": "https://www.airbnb.com/rooms/15212560",
+          "latitude": "37.997788008740564",
+          "review_scores_location": 9,
+          "review_scores_checkin": 10,
+          "host_since": "2016-08-24",
+          "bedrooms": 1,
+          "description": "My place is close to public transport, the city center, and parks. My place is good for couples, solo adventurers, and business travelers.",
+          "experiences_offered": "none",
+          "price": 11,
+          "host_picture_url": "https://a0.muscache.com/im/pictures/eb6b306c-b286-4514-81f8-181561192714.jpg?aki_policy=profile_x_medium",
+          "extra_people": 0,
+          "smart_location": "Athina, Greece",
+          "last_review": "2017-03-31",
+          "host_verifications": "email,phone,facebook,reviews,jumio,government_id",
+          "number_of_reviews": 2,
+          "host_response_rate": 100,
+          "host_about": "Γειά σας, ονομάζομαι Χρήστος Δημητρακόπουλος,είμαι 38 ετών, είμαι κάτοικος Αθηνών, το επάγγελμά μου είναι εργολάβος οικοδομών, κατασκευάζω και ανακαινίζω κτήρια και αγαπώ πολύ αυτό που κάνω.\r\nΤον ελεύθερο χρόνο μου ασχολούμαι με πολεμικές τέχνες, μου αρέσει να ταξιδεύω και ανακαλύπτω νέα μέρη, είμαι άνθρωπος φιλικός και φιλόξενος και θα χαιρόμουν πολύ να φιλοξενώ ταξιδιώτες από όλα τα μέρη του κόσμου.Μπορείτε να βρείτε τον οικοδεσπότη στο όνομα Xristos Dimitrakopoulos στο (SENSITIVE CONTENTS HIDDEN)\r\n\r\nHello, I am Xristos Dimitrakopoulos, I am a constructor, and I love to build and restore houses. I also love to travel and see new places and people. Furthermore I  like martial arts and  I spend a lot of time with friends from all over the world.\r\nYou can find me on (SENSITIVE CONTENTS HIDDEN) under the name Xristos Dimitrakopoulos",
+          "guests_included": 1,
+          "host_url": "https://www.airbnb.com/users/show/91702578",
+          "host_id": "91702578",
+          "availability_30": 0,
+          "host_total_listings_count": 10,
+          "neighbourhood": "Pedion Areos",
+          "calculated_host_listings_count": 7,
+          "name": "The flowers room",
+          "neighbourhood_cleansed": "ΚΥΨΕΛΗ",
+          "bed_type": "Real Bed",
+          "country": "Greece",
+          "host_response_time": "within an hour",
+          "longitude": "23.735830750366503",
+          "summary": "My place is close to public transport, the city center, and parks. My place is good for couples, solo adventurers, and business travelers.",
+          "beds": 2,
+          "minimum_nights": 2,
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/a8f7f29e-3012-469a-b1bc-a842ef774354.jpg?aki_policy=x_large",
+          "cleaning_fee": 6,
+          "host_name": "Χρήστος",
+          "last_scraped": "2017-05-09",
+          "scrape_id": "20170509084221",
+          "review_scores_rating": 100,
+          "host_thumbnail_url": "https://a0.muscache.com/im/pictures/eb6b306c-b286-4514-81f8-181561192714.jpg?aki_policy=profile_small",
+          "room_type": "Private room"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.735830750366503,
+            37.997788008740564
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:37.852000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "3f2ad918adf0e3d526f9bd0e56a7b779682115a8",
+        "fields": {
+          "review_scores_accuracy": 9,
+          "reviews_per_month": 0.21,
+          "bathrooms": 1.0,
+          "first_review": "2015-10-29",
+          "geolocation": [
+            37.984821771283904,
+            23.741015789290433
+          ],
+          "cancellation_policy": "moderate",
+          "accommodates": 5,
+          "neighbourhood_cleansed": "ΜΟΥΣΕΙΟ-ΕΞΑΡΧΕΙΑ-ΝΕΑΠΟΛΗ",
+          "street": "Athina, Greece",
+          "review_scores_communication": 10,
+          "calendar_updated": "5 weeks ago",
+          "country_code": "GR",
+          "review_scores_cleanliness": 9,
+          "property_type": "House",
+          "availability_365": 365,
+          "id": "8804614",
+          "market": "Athens",
+          "features": "Host Has Profile Pic",
+          "city": "Athina",
+          "availability_60": 60,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(192, 178, 154, 1.00)",
+              "rgba(153, 133, 121, 1.00)",
+              "rgba(132, 127, 125, 1.00)"
+            ],
+            "filename": "0407a729_original.jpg",
+            "width": 318,
+            "id": "a8b0057a1d54a1836498eb1a68991f16",
+            "height": 426,
+            "thumbnail": true
+          },
+          "calendar_last_scraped": "2017-05-09",
+          "host_since": "2015-10-09",
+          "host_location": "Athens, Attica, Greece",
+          "availability_90": 90,
+          "amenities": "TV,Wireless Internet,Kitchen,Smoking allowed,Breakfast,Buzzer/wireless intercom,Heating,Family/kid friendly,Washer,First aid kit,Fire extinguisher,Essentials,Shampoo,Hangers,Hair dryer,Iron",
+          "host_listings_count": 2,
+          "maximum_nights": 1125,
+          "listing_url": "https://www.airbnb.com/rooms/8804614",
+          "latitude": "37.984821771283904",
+          "review_scores_location": 9,
+          "review_scores_checkin": 10,
+          "monthly_price": 1000,
+          "bedrooms": 2,
+          "description": "85 s.m. renovated high ceiling house,vintage (URL HIDDEN) has 2 bedrooms.3 sofas in the entrance hall and the main living room.A big kitchen through which you can enter to a cozy yard with plants and a table to enjoy your morning coffee or meal.",
+          "experiences_offered": "none",
+          "price": 50,
+          "host_picture_url": "https://a0.muscache.com/im/users/46130921/profile_pic/1444381982/original.jpg?aki_policy=profile_x_medium",
+          "extra_people": 10,
+          "smart_location": "Athina, Greece",
+          "weekly_price": 280,
+          "last_review": "2016-04-01",
+          "host_verifications": "email,phone,reviews",
+          "number_of_reviews": 4,
+          "host_response_rate": 50,
+          "host_about": "We are Vassia and Stella living together in this house! We are both working mainly around dance. We like to travel , discovering new places, experiences, people.Living here we also work and search on projects.",
+          "guests_included": 1,
+          "host_url": "https://www.airbnb.com/users/show/46130921",
+          "host_id": "46130921",
+          "availability_30": 30,
+          "host_total_listings_count": 2,
+          "calculated_host_listings_count": 2,
+          "name": "Old Era's house / center of Athens!",
+          "bed_type": "Real Bed",
+          "country": "Greece",
+          "host_response_time": "within a day",
+          "longitude": "23.741015789290433",
+          "summary": "85 s.m. renovated high ceiling house,vintage (URL HIDDEN) has 2 bedrooms.3 sofas in the entrance hall and the main living room.A big kitchen through which you can enter to a cozy yard with plants and a table to enjoy your morning coffee or meal.",
+          "beds": 4,
+          "minimum_nights": 1,
+          "review_scores_value": 9,
+          "host_name": "Stella",
+          "last_scraped": "2017-05-09",
+          "scrape_id": "20170509084221",
+          "review_scores_rating": 80,
+          "host_thumbnail_url": "https://a0.muscache.com/im/users/46130921/profile_pic/1444381982/original.jpg?aki_policy=profile_small",
+          "room_type": "Entire home/apt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.741015789290433,
+            37.984821771283904
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:37.852000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "08b482468a0d8ad6f41ffe1e14ccc745ebd2d25f",
+        "fields": {
+          "geolocation": [
+            37.98737189089977,
+            23.751387147851617
+          ],
+          "bathrooms": 1.0,
+          "features": "Is Location Exact",
+          "cancellation_policy": "flexible",
+          "accommodates": 3,
+          "calendar_last_scraped": "2017-05-09",
+          "neighbourhood_cleansed": "ΜΟΥΣΕΙΟ-ΕΞΑΡΧΕΙΑ-ΝΕΑΠΟΛΗ",
+          "host_neighbourhood": "Ambelokipi",
+          "street": "Ambelokipi, Athina, 114 71, Greece",
+          "calendar_updated": "11 months ago",
+          "country_code": "GR",
+          "property_type": "Apartment",
+          "availability_365": 362,
+          "id": "13530593",
+          "neighbourhood": "Ambelokipi",
+          "city": "Athina",
+          "availability_60": 57,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(190, 185, 174, 1.00)",
+              "rgba(129, 119, 106, 1.00)",
+              "rgba(87, 79, 70, 1.00)"
+            ],
+            "filename": "b8b7167a-7331-4e70-93fd-549445101495.jpg",
+            "width": 639,
+            "id": "4095fa4b1623a08511ddae54262a5c8b",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "114 71",
+          "host_location": "Marathonas, Attica, Greece",
+          "availability_90": 87,
+          "amenities": "TV,Kitchen,Elevator in building,Family/kid friendly,Washer,Essentials,Shampoo,Hangers",
+          "host_listings_count": 1,
+          "maximum_nights": 1125,
+          "listing_url": "https://www.airbnb.com/rooms/13530593",
+          "latitude": "37.98737189089977",
+          "last_scraped": "2017-05-09",
+          "host_since": "2016-06-14",
+          "bedrooms": 1,
+          "description": "Ο χώρος μου είναι κοντά σε δημόσια συγκοινωνία, νυκτερινή ζωή και δραστηριότητες για οικογένειες. Ο χώρος μου είναι κατάλληλος για ζευγάρια, επαγγελματίες ταξιδιώτες και οικογένειες (με παιδιά).",
+          "experiences_offered": "none",
+          "price": 60,
+          "host_picture_url": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+          "extra_people": 0,
+          "smart_location": "Athina, Greece",
+          "host_verifications": "email,phone",
+          "number_of_reviews": 0,
+          "guests_included": 1,
+          "host_url": "https://www.airbnb.com/users/show/77778426",
+          "host_id": "77778426",
+          "availability_30": 27,
+          "calculated_host_listings_count": 1,
+          "name": "Appartment in the Athens, near Lecabettus, Metro",
+          "bed_type": "Real Bed",
+          "country": "Greece",
+          "longitude": "23.751387147851617",
+          "summary": "Ο χώρος μου είναι κοντά σε δημόσια συγκοινωνία, νυκτερινή ζωή και δραστηριότητες για οικογένειες. Ο χώρος μου είναι κατάλληλος για ζευγάρια, επαγγελματίες ταξιδιώτες και οικογένειες (με παιδιά).",
+          "beds": 2,
+          "minimum_nights": 1,
+          "cleaning_fee": 50,
+          "host_name": "Κωνσταντίνος",
+          "scrape_id": "20170509084221",
+          "host_total_listings_count": 1,
+          "host_thumbnail_url": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3",
+          "room_type": "Entire home/apt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.751387147851617,
+            37.98737189089977
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:37.852000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "7bf50bfd1e033037368cf04af05fc1a55edb2454",
+        "fields": {
+          "geolocation": [
+            37.98759248470492,
+            23.74969175542197
+          ],
+          "bathrooms": 3.5,
+          "features": "Host Is Superhost,Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+          "cancellation_policy": "flexible",
+          "transit": "Ampelokipi metro station is at 10 minutes walking distance. There is also a bus terminal that serves the centre of Athens and all the major attractions (Acropolis, Syntagma, Monastiraki, Plaka, The National Archaelogical Museum, etc). We can also assist you by organising private transport with one of our reliable drivers. We work with taxi as well as minivan drivers (taxis carry up to 4 passengers) who will wait for you in the arrivals hall, no matter how long you may be delayed, and bring you straight to the apartment.   Guest services will discuss further after a booking is confirmed!",
+          "accommodates": 9,
+          "calendar_last_scraped": "2017-05-09",
+          "neighbourhood_cleansed": "ΜΟΥΣΕΙΟ-ΕΞΑΡΧΕΙΑ-ΝΕΑΠΟΛΗ",
+          "host_neighbourhood": "Thiseio",
+          "street": "Neapoli, Athina, 114 71, Greece",
+          "calendar_updated": "today",
+          "country_code": "GR",
+          "neighborhood_overview": "This quiet neighbourhood on the foot of Lycabettus hill, offers a choice of excellent restaurants, a weekly open air green market. The Athens Concert Hall - Megaro Mousiki is also located at close walking distance.",
+          "availability_365": 254,
+          "id": "17273434",
+          "market": "Athens",
+          "city": "Athina",
+          "property_type": "Apartment",
+          "space": "We call this apartment ST8.  Apartment ST8 is a really unique apartment situated on the foot of Lycabettus hill, in the centre of Athens. It has 4 bedrooms and a large luminous living room with wrap-around windows, offering a bird's eye view of the city of Athens.  Guests can enjoy dinners on the large 10-seat dinner table with city views in the background.  The master bedroom features a king size bed that can be set up as two singles. The second bedroom has a double bed that can also be set up as two singles, as well as another single bed. The third bedroom has a double bed and the fourth bedroom has two single beds.  All bedrooms are equipped with high quality mattresses, bed linen and towels. There is an en suite full bathroom, 2 more bathrooms with showers and extra wc. A fully equipped kitchen, a study room, a laundry room with washer / dryer, 2 satellite TV sets and free wifi internet access, all add to the comfort of the guests. A choice of excellent restaurants in the area and",
+          "availability_60": 2,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(149, 139, 122, 1.00)",
+              "rgba(141, 134, 130, 1.00)",
+              "rgba(122, 112, 101, 1.00)"
+            ],
+            "filename": "f56f1e4d-1e40-49ad-a7bf-5ac597683ed2.jpg",
+            "width": 639,
+            "id": "eedcb06745a152185b25fd83223e0b38",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "114 71",
+          "host_location": "Athens, Attica, Greece",
+          "availability_90": 17,
+          "amenities": "TV,Internet,Wireless Internet,Air conditioning,Kitchen,Elevator in building,Heating,Family/kid friendly,Washer,Dryer,Smoke detector,Fire extinguisher,Essentials,Shampoo,Hangers,Hair dryer,Iron,Laptop friendly workspace,Private entrance",
+          "host_listings_count": 52,
+          "maximum_nights": 1125,
+          "host_response_time": "within an hour",
+          "latitude": "37.98759248470492",
+          "house_rules": "• We are happy to provide flexible check in and check out times, so just let us know when you would like to arrive and depart and we will do our best to satisfy your requests. Please note that depending on availability check in will be by 3pm and check out is by 11am. • Check in between the hours of 9pm and 9am. Our staff work from 9am until 9pm every day. So, if you are checking in between 9pm and 9am we have asked our reliable taxi drivers to check you in. This allows you to arrive at any time you like. You can check in at any time after 9pm and before 9am by simply booking your transport to the apartment via one of our trusted taxi drivers. They charge no extra to check you in. On arrival he will let you into the apartment and ask you what time you would like our permanent staff to take you on a tour of the area and to show you the apartment in detail. • Smoking is allowed only outside the apartment THANK YOU",
+          "host_since": "2011-11-17",
+          "bedrooms": 4,
+          "description": "This is a really unique apartment situated on the foot of Lycabettus hill in the centre of Athens. It has a huge living room with a bird's eye view of the city of Athens. Guests can enjoy dinners on the large dinner table with city views as the background. A choice of excellent restaurants in the area and a weekly open air green market are available. We call this apartment ST8.  Apartment ST8 is a really unique apartment situated on the foot of Lycabettus hill, in the centre of Athens. It has 4 bedrooms and a large luminous living room with wrap-around windows, offering a bird's eye view of the city of Athens.  Guests can enjoy dinners on the large 10-seat dinner table with city views in the background.  The master bedroom features a king size bed that can be set up as two singles. The second bedroom has a double bed that can also be set up as two singles, as well as another single bed. The third bedroom has a double bed and the fourth bedroom has two single beds.  All bedrooms are equ",
+          "experiences_offered": "none",
+          "price": 186,
+          "host_picture_url": "https://a0.muscache.com/im/users/1418201/profile_pic/1321573237/original.jpg?aki_policy=profile_x_medium",
+          "extra_people": 35,
+          "smart_location": "Athina, Greece",
+          "host_verifications": "email,phone,reviews,jumio",
+          "number_of_reviews": 0,
+          "host_response_rate": 100,
+          "host_about": "We at Boutique Athens offer accommodation to travellers who are interested in the cultural and artistic pursuits on offer in our amazing city, Athens.\r\nWe own and manage several fully serviced, high quality apartments in the centre of the city.\r\nWe are interested in food, art, modern history and what is new and exciting.\r\nWe personally meet and greet our guests.\r\nWe provide full kitchens for cooking, a wonderful art collection and many books on Modern Greece.",
+          "guests_included": 4,
+          "host_url": "https://www.airbnb.com/users/show/1418201",
+          "host_id": "1418201",
+          "availability_30": 2,
+          "neighbourhood": "Neapoli",
+          "calculated_host_listings_count": 43,
+          "interaction": "We meet and greet our guests. We take them on a short orientation tour and offer them any assistance they require.",
+          "name": "Exclusive apt with panoramic views!",
+          "bed_type": "Real Bed",
+          "country": "Greece",
+          "notes": "• We are happy to provide flexible check in and checkout times, so just let us know when you would like to arrive and depart and we will do our best to satisfy your requests. Please note that depending on availability check in will be by 3pm and check out is by 11am. • Check in between the hours of 9pm and 9am. • We are happy to provide flexible check in and checkout times, so just let us know when you would like to arrive and depart and we will do our best to satisfy your requests. Please note that depending on availability check in will be by 3pm and check out is by 11am. • Check in between the hours of 9pm and 9am. Our staff work from 9am until 9pm every day. So, if you are checking in between 9pm and 9am we have asked our reliable taxi drivers to check you in. This allows you to arrive at any time you like. You can check in at any time after 9pm and before 9am by simply booking your transport to the apartment via one of our trusted taxi drivers. They charge no extra to check you in",
+          "longitude": "23.74969175542197",
+          "summary": "This is a really unique apartment situated on the foot of Lycabettus hill in the centre of Athens. It has a huge living room with a bird's eye view of the city of Athens. Guests can enjoy dinners on the large dinner table with city views as the background. A choice of excellent restaurants in the area and a weekly open air green market are available.",
+          "beds": 6,
+          "minimum_nights": 3,
+          "listing_url": "https://www.airbnb.com/rooms/17273434",
+          "host_name": "Dean",
+          "last_scraped": "2017-05-09",
+          "scrape_id": "20170509084221",
+          "host_total_listings_count": 52,
+          "host_thumbnail_url": "https://a0.muscache.com/im/users/1418201/profile_pic/1321573237/original.jpg?aki_policy=profile_small",
+          "room_type": "Entire home/apt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.74969175542197,
+            37.98759248470492
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:37.852000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "dc4d4648547d6e5cf8d5d46f632e0e3979372ba6",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 2.08,
+          "bathrooms": 1.0,
+          "first_review": "2017-02-27",
+          "geolocation": [
+            37.986488617819546,
+            23.74215655583672
+          ],
+          "cancellation_policy": "strict",
+          "accommodates": 4,
+          "calendar_last_scraped": "2017-05-09",
+          "medium_url": "https://a0.muscache.com/im/pictures/8e2d6962-4145-47a8-9cb9-543aacdb75a5.jpg?aki_policy=medium",
+          "host_neighbourhood": "Neapoli",
+          "street": "Neapoli, Athina, 114 72, Greece",
+          "review_scores_communication": 10,
+          "calendar_updated": "today",
+          "country_code": "GR",
+          "review_scores_cleanliness": 10,
+          "neighborhood_overview": "The house is between Kolonaki a posh neighborhood with all kind of restaurants bars,cafes,places for massage and spa, and Exarchia an alternative and  artistic neighborhood with lots of students, nice cafes, bars and taverns where you can enjoy Greek cuisine and drink ouzo. A big mall is also very close, it is named Attica city link and it is 2 min walk from Panepistimio metro station. Every Saturday there is a local street market on the next road of the appartment where you can take a walk.",
+          "availability_365": 176,
+          "id": "17143524",
+          "market": "Athens",
+          "features": "Host Has Profile Pic,Is Location Exact,Instant Bookable",
+          "city": "Athina",
+          "property_type": "Apartment",
+          "availability_60": 10,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(196, 186, 152, 1.00)",
+              "rgba(157, 142, 110, 1.00)",
+              "rgba(108, 74, 42, 1.00)"
+            ],
+            "filename": "8e2d6962-4145-47a8-9cb9-543aacdb75a5.jpg",
+            "width": 639,
+            "id": "f2a3b792efe063ef82705d4376828e0a",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "114 72",
+          "host_location": "Athens, Attica region, Greece",
+          "access": "From the airport: - By taxi (adout 45 euros)  - By the means of transport,take the metro from the airport (line blue) to Agia Marina and disembark at Ambelokipi station, exit Leoforos Alexandras/Panornou. Outside of the metro station there is a bus station, take the bus number 230 (Zografou -Akrpoli) with direction to Akropoli and stop at Tsimiski station (5 stops). From Panepistimio metro stasion (red line): - On foot (10 min) - Take the bus 230 (Akropoli - Zografou) with direction to Zografou and stop at Tsimiski station (5 stops)",
+          "availability_90": 29,
+          "review_scores_value": 10,
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/8e2d6962-4145-47a8-9cb9-543aacdb75a5.jpg?aki_policy=small",
+          "amenities": "TV,Internet,Wireless Internet,Air conditioning,Kitchen,Smoking allowed,Elevator in building,Heating,Family/kid friendly,Washer,Dryer,First aid kit,Essentials,Shampoo,Hangers,Laptop friendly workspace",
+          "host_listings_count": 1,
+          "maximum_nights": 1125,
+          "listing_url": "https://www.airbnb.com/rooms/17143524",
+          "latitude": "37.986488617819546",
+          "review_scores_location": 9,
+          "review_scores_checkin": 10,
+          "host_since": "2015-04-14",
+          "bedrooms": 1,
+          "description": "A renovated warm flat in the centre of the city, just 10 min walk from Panepistimio metro station. It is located near to the famous neighborhood of Kolonaki and the historic centre of Athens. From the airport: - By taxi (adout 45 euros)  - By the means of transport,take the metro from the airport (line blue) to Agia Marina and disembark at Ambelokipi station, exit Leoforos Alexandras/Panornou. Outside of the metro station there is a bus station, take the bus number 230 (Zografou -Akrpoli) with direction to Akropoli and stop at Tsimiski station (5 stops). From Panepistimio metro stasion (red line): - On foot (10 min) - Take the bus 230 (Akropoli - Zografou) with direction to Zografou and stop at Tsimiski station (5 stops) The house is between Kolonaki a posh neighborhood with all kind of restaurants bars,cafes,places for massage and spa, and Exarchia an alternative and  artistic neighborhood with lots of students, nice cafes, bars and taverns where you can enjoy Greek cuisine and drink",
+          "experiences_offered": "none",
+          "price": 20,
+          "host_picture_url": "https://a0.muscache.com/im/pictures/86b22888-a956-4066-96f6-acf2fe5e6787.jpg?aki_policy=profile_x_medium",
+          "extra_people": 10,
+          "smart_location": "Athina, Greece",
+          "last_review": "2017-04-20",
+          "host_verifications": "email,phone,reviews",
+          "number_of_reviews": 5,
+          "host_response_rate": 100,
+          "guests_included": 2,
+          "host_url": "https://www.airbnb.com/users/show/31221123",
+          "host_id": "31221123",
+          "availability_30": 0,
+          "host_total_listings_count": 1,
+          "neighbourhood": "Neapoli",
+          "calculated_host_listings_count": 1,
+          "name": "Warm and cosy apartment",
+          "neighbourhood_cleansed": "ΜΟΥΣΕΙΟ-ΕΞΑΡΧΕΙΑ-ΝΕΑΠΟΛΗ",
+          "bed_type": "Real Bed",
+          "country": "Greece",
+          "host_response_time": "within an hour",
+          "longitude": "23.74215655583672",
+          "summary": "A renovated warm flat in the centre of the city, just 10 min walk from Panepistimio metro station. It is located near to the famous neighborhood of Kolonaki and the historic centre of Athens.",
+          "beds": 2,
+          "minimum_nights": 6,
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/8e2d6962-4145-47a8-9cb9-543aacdb75a5.jpg?aki_policy=x_large",
+          "cleaning_fee": 10,
+          "host_name": "Marina & Nikos",
+          "last_scraped": "2017-05-09",
+          "scrape_id": "20170509084221",
+          "review_scores_rating": 92,
+          "host_thumbnail_url": "https://a0.muscache.com/im/pictures/86b22888-a956-4066-96f6-acf2fe5e6787.jpg?aki_policy=profile_small",
+          "room_type": "Entire home/apt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.74215655583672,
+            37.986488617819546
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:37.852000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "789398395dcddb5328df64e5c8de2347b0d2079f",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 4.3,
+          "bathrooms": 1.0,
+          "first_review": "2016-05-26",
+          "geolocation": [
+            37.986514851784776,
+            23.7403738781869
+          ],
+          "cancellation_policy": "moderate",
+          "transit": "the house is exactly 2.7 km from the Acropolis. You will need three bus stops (or an about 20-minute walk) to get to the nearest metro station which is Panepistimio or Omonoia (exactly 1.2 and 1.3 km from the house respectively) and two metro stops to get to the Acropolis. Buses are constantly passing by towards the historical center three streets away from the house.",
+          "accommodates": 1,
+          "calendar_last_scraped": "2017-05-09",
+          "neighbourhood_cleansed": "ΜΟΥΣΕΙΟ-ΕΞΑΡΧΕΙΑ-ΝΕΑΠΟΛΗ",
+          "host_neighbourhood": "Neapoli",
+          "street": "Neapoli, Athina, 114 73, Greece",
+          "review_scores_communication": 10,
+          "calendar_updated": "today",
+          "country_code": "GR",
+          "review_scores_cleanliness": 10,
+          "neighborhood_overview": "the house is located in exarcheia, which is a region in downtown Athens, very vivid by night and day. Many artists and intelllectuals live here, and shows often take place in the square. My house is 500 m away from that so it is not so fussy.  Strefi Hill is within a five-minute walk.",
+          "availability_365": 50,
+          "id": "12818566",
+          "market": "Athens",
+          "features": "Host Is Superhost,Host Has Profile Pic,Is Location Exact",
+          "city": "Athina",
+          "property_type": "Apartment",
+          "space": "the apartment is in the center of the city and everything is close-by and easy, from going out for drinks to going shopping or to the super-maket. the decoration is a mix-and-match of old pieces of furniture that i freshened-up and new, comfy and simple ones.",
+          "availability_60": 20,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(227, 167, 126, 1.00)",
+              "rgba(231, 183, 154, 1.00)",
+              "rgba(180, 131, 116, 1.00)"
+            ],
+            "filename": "7ac413a9-dcdb-43e3-9ff1-d35eaebbe3c2.jpg",
+            "width": 639,
+            "id": "f6b6ffd5b81af1e592bdb4cbcbfb27bd",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "114 73",
+          "host_location": "Athens, Attica, Greece",
+          "access": "the guest can feel at home as far as kitchen and bathroom are concerned and is welcome in the common area, which is the living room.",
+          "availability_90": 50,
+          "review_scores_value": 10,
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/7ac413a9-dcdb-43e3-9ff1-d35eaebbe3c2.jpg?aki_policy=small",
+          "amenities": "TV,Internet,Wireless Internet,Air conditioning,Kitchen,Smoking allowed,Heating,Suitable for events,Washer,First aid kit,Essentials,Shampoo,24-hour check-in,Hangers,Hair dryer,Iron,Laptop friendly workspace,translation missing: en.hosting_amenity_49,translation missing: en.hosting_amenity_50",
+          "host_listings_count": 1,
+          "maximum_nights": 1125,
+          "listing_url": "https://www.airbnb.com/rooms/12818566",
+          "latitude": "37.986514851784776",
+          "review_scores_location": 10,
+          "review_scores_checkin": 10,
+          "host_since": "2016-05-02",
+          "bedrooms": 1,
+          "description": "a sunny, renovated apartment with cosy rooms, hard-wood floors and high ceilings with a cosy - retro decoration. The neighborhood is only 500m from exarcheia sq., the most indie-alternative region of Athens. Fully equipped kitchen, washing machine, closet, constant hot water+heating. the apartment is in the center of the city and everything is close-by and easy, from going out for drinks to going shopping or to the super-maket. the decoration is a mix-and-match of old pieces of furniture that i freshened-up and new, comfy and simple ones. the guest can feel at home as far as kitchen and bathroom are concerned and is welcome in the common area, which is the living room. I would be happy to share all the information I have! the house is located in exarcheia, which is a region in downtown Athens, very vivid by night and day. Many artists and intelllectuals live here, and shows often take place in the square. My house is 500 m away from that so it is not so fussy.  Strefi Hill is within a",
+          "experiences_offered": "none",
+          "price": 22,
+          "host_picture_url": "https://a0.muscache.com/im/pictures/a23d583a-c733-46b6-8a58-58fe0fac9310.jpg?aki_policy=profile_x_medium",
+          "extra_people": 10,
+          "smart_location": "Athina, Greece",
+          "last_review": "2017-05-02",
+          "host_verifications": "email,phone,reviews",
+          "number_of_reviews": 50,
+          "host_response_rate": 100,
+          "host_about": "I have lived in Athens for the past 8 years. I work as an architect. I have chosen to live in exarcheia because its culture and life style suits me perfectly! I enjoy meeting up with friends for walkabouts, dinner and drinks , i love dancing.\r\nMy dream destination is Mexico, but I would like to go everywhere really!\r\nI would be happy to share with you everything I know about Athens and especially Exarcheia, when we meet up!",
+          "guests_included": 1,
+          "host_url": "https://www.airbnb.com/users/show/69924335",
+          "host_id": "69924335",
+          "availability_30": 11,
+          "host_total_listings_count": 1,
+          "neighbourhood": "Neapoli",
+          "calculated_host_listings_count": 1,
+          "interaction": "I would be happy to share all the information I have!",
+          "name": "sunny private room in exarcheia",
+          "medium_url": "https://a0.muscache.com/im/pictures/7ac413a9-dcdb-43e3-9ff1-d35eaebbe3c2.jpg?aki_policy=medium",
+          "bed_type": "Real Bed",
+          "country": "Greece",
+          "host_response_time": "within an hour",
+          "longitude": "23.7403738781869",
+          "summary": "a sunny, renovated apartment with cosy rooms, hard-wood floors and high ceilings with a cosy - retro decoration. The neighborhood is only 500m from exarcheia sq., the most indie-alternative region of Athens. Fully equipped kitchen, washing machine, closet, constant hot water+heating.",
+          "beds": 1,
+          "minimum_nights": 2,
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/7ac413a9-dcdb-43e3-9ff1-d35eaebbe3c2.jpg?aki_policy=x_large",
+          "host_name": "Nikoletta",
+          "last_scraped": "2017-05-09",
+          "scrape_id": "20170509084221",
+          "review_scores_rating": 98,
+          "host_thumbnail_url": "https://a0.muscache.com/im/pictures/a23d583a-c733-46b6-8a58-58fe0fac9310.jpg?aki_policy=profile_small",
+          "room_type": "Private room"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.7403738781869,
+            37.986514851784776
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:37.852000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "9ad39f487c4b3142ad27c614e7e33089370a1f90",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 0.44,
+          "bathrooms": 1.0,
+          "first_review": "2016-03-30",
+          "geolocation": [
+            37.98328263463104,
+            23.7395826491982
+          ],
+          "cancellation_policy": "flexible",
+          "accommodates": 4,
+          "calendar_last_scraped": "2017-05-09",
+          "medium_url": "https://a0.muscache.com/im/pictures/d28d01a1-104c-4e50-ab29-b62568af1981.jpg?aki_policy=medium",
+          "host_neighbourhood": "Neapoli",
+          "street": "Neapoli, Athina, 106 80, Greece",
+          "review_scores_communication": 10,
+          "calendar_updated": "2 weeks ago",
+          "country_code": "GR",
+          "review_scores_cleanliness": 10,
+          "property_type": "Apartment",
+          "availability_365": 220,
+          "id": "11008646",
+          "market": "Athens",
+          "features": "Host Has Profile Pic,Is Location Exact",
+          "city": "Athina",
+          "availability_60": 0,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(95, 85, 46, 1.00)",
+              "rgba(94, 81, 35, 1.00)",
+              "rgba(133, 120, 90, 1.00)"
+            ],
+            "filename": "d28d01a1-104c-4e50-ab29-b62568af1981.jpg",
+            "width": 639,
+            "id": "aece312e9da7040a64fb56017c445a61",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "106 80",
+          "host_location": "Athens, Attica, Greece",
+          "availability_90": 0,
+          "review_scores_value": 10,
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/d28d01a1-104c-4e50-ab29-b62568af1981.jpg?aki_policy=small",
+          "amenities": "TV,Air conditioning,Kitchen,Elevator in building,Heating,Family/kid friendly,First aid kit,Fire extinguisher,Essentials,Shampoo,Hangers,Hair dryer,Iron,Laptop friendly workspace",
+          "host_listings_count": 1,
+          "maximum_nights": 1125,
+          "listing_url": "https://www.airbnb.com/rooms/11008646",
+          "latitude": "37.98328263463104",
+          "review_scores_location": 10,
+          "review_scores_checkin": 10,
+          "host_since": "2015-12-15",
+          "bedrooms": 1,
+          "description": "This  50sqm ,with love renovated ,one bedroom flat is very central in Athens. Just 2 min walk to  Kolonaki district, which is full of nice restaurants, hip bars and exquisite boutiques . The nearest metro station \"Panepistimio\" is 5 min on foot.",
+          "experiences_offered": "none",
+          "price": 45,
+          "host_picture_url": "https://a0.muscache.com/im/pictures/7aa4d77f-abcc-490d-b3ed-27df4d597aa8.jpg?aki_policy=profile_x_medium",
+          "extra_people": 0,
+          "smart_location": "Athina, Greece",
+          "last_review": "2016-05-29",
+          "host_verifications": "email,phone,facebook,reviews,work_email",
+          "number_of_reviews": 6,
+          "host_response_rate": 100,
+          "guests_included": 1,
+          "host_url": "https://www.airbnb.com/users/show/51417690",
+          "host_id": "51417690",
+          "availability_30": 0,
+          "host_total_listings_count": 1,
+          "neighbourhood": "Neapoli",
+          "calculated_host_listings_count": 1,
+          "name": "cosy, just renovated central flat",
+          "neighbourhood_cleansed": "ΜΟΥΣΕΙΟ-ΕΞΑΡΧΕΙΑ-ΝΕΑΠΟΛΗ",
+          "bed_type": "Real Bed",
+          "country": "Greece",
+          "host_response_time": "within a few hours",
+          "longitude": "23.7395826491982",
+          "summary": "This  50sqm ,with love renovated ,one bedroom flat is very central in Athens. Just 2 min walk to  Kolonaki district, which is full of nice restaurants, hip bars and exquisite boutiques . The nearest metro station \"Panepistimio\" is 5 min on foot.",
+          "beds": 2,
+          "minimum_nights": 2,
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/d28d01a1-104c-4e50-ab29-b62568af1981.jpg?aki_policy=x_large",
+          "cleaning_fee": 15,
+          "host_name": "Panos",
+          "last_scraped": "2017-05-09",
+          "scrape_id": "20170509084221",
+          "review_scores_rating": 100,
+          "host_thumbnail_url": "https://a0.muscache.com/im/pictures/7aa4d77f-abcc-490d-b3ed-27df4d597aa8.jpg?aki_policy=profile_small",
+          "room_type": "Entire home/apt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.7395826491982,
+            37.98328263463104
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:37.852000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "409d7713e153ed9bccb0b6e3b8648e109d64be68",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 2.14,
+          "bathrooms": 1.0,
+          "first_review": "2016-05-25",
+          "geolocation": [
+            37.987950432377794,
+            23.74137873529482
+          ],
+          "cancellation_policy": "moderate",
+          "transit": "Mount Lycabettus (Walking 20 Mins) is very close. The National Archaeological Museum (Walking 13 Mins) is also in close proximity. The neighborhood of Exarcheia (Walking 15 Mins), is one of the most lively and historical areas in the centre of Athens. Syntagma Square (Parliament)(Walking 27 mins). Plaka (Walking 36 Mins) Acropolis (Walking 40 Mins)",
+          "accommodates": 4,
+          "calendar_last_scraped": "2017-05-09",
+          "neighbourhood_cleansed": "ΜΟΥΣΕΙΟ-ΕΞΑΡΧΕΙΑ-ΝΕΑΠΟΛΗ",
+          "host_neighbourhood": "Neapoli",
+          "street": "Neapoli, Athina, 114 72, Greece",
+          "review_scores_communication": 10,
+          "calendar_updated": "today",
+          "country_code": "GR",
+          "review_scores_cleanliness": 10,
+          "property_type": "Serviced apartment",
+          "availability_365": 262,
+          "id": "13122418",
+          "market": "Athens",
+          "features": "Host Is Superhost,Host Has Profile Pic,Host Identity Verified,Is Location Exact,Instant Bookable",
+          "city": "Athina",
+          "space": "When you arrive we will have prepared a fridge of Fresh Orange juice, Milk and Water ready for you as well as Coffee/Sugar Etc",
+          "availability_60": 8,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(194, 189, 185, 1.00)",
+              "rgba(177, 170, 168, 1.00)",
+              "rgba(122, 106, 102, 1.00)"
+            ],
+            "filename": "27d052c9-a681-4183-b998-4d23907ae51b.jpg",
+            "width": 639,
+            "id": "6391bc6bc4a8daa988825eb6a09cd8b4",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "114 72",
+          "host_location": "London, England, United Kingdom",
+          "access": "The Front Main Door and stairs to the apartment are communal. There is also a Terrace with outside seating for your pleasure.",
+          "availability_90": 16,
+          "review_scores_value": 10,
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/27d052c9-a681-4183-b998-4d23907ae51b.jpg?aki_policy=small",
+          "amenities": "TV,Wireless Internet,Air conditioning,Wheelchair accessible,Kitchen,Free parking on premises,Pets allowed,Elevator in building,Buzzer/wireless intercom,Heating,Family/kid friendly,Washer,Smoke detector,Carbon monoxide detector,Essentials,Shampoo,Hangers,Hair dryer,Iron,Laptop friendly workspace,Self Check-In,Doorman Entry,Private entrance",
+          "host_listings_count": 2,
+          "maximum_nights": 1125,
+          "listing_url": "https://www.airbnb.com/rooms/13122418",
+          "latitude": "37.987950432377794",
+          "review_scores_location": 10,
+          "house_rules": "Just be respectful to other guests and neighbors",
+          "host_since": "2015-04-15",
+          "bedrooms": 1,
+          "description": "New 1 Bedroom serviced Apartment in Central Athens only 20 mins walk from centre. Located in Neopoli district very close to Lycabettus hill and Exarcheia. A newly refurbished building with a Garden Terrace. Each one bedroom apartment has Antique furniture, Balcony's , Kitchen, Bathroom with shower and living room with an antique Athenian style double sofa bed. British/Greek owners are on site for you to have a very relaxing enjoyable stay. Everything you require for your comfort will be ready. When you arrive we will have prepared a fridge of Fresh Orange juice, Milk and Water ready for you as well as Coffee/Sugar Etc The Front Main Door and stairs to the apartment are communal. There is also a Terrace with outside seating for your pleasure. We will be available for guests throughout the day. Mount Lycabettus (Walking 20 Mins) is very close. The National Archaeological Museum (Walking 13 Mins) is also in close proximity. The neighborhood of Exarcheia (Walking 15 Mins), is one of the mo",
+          "experiences_offered": "none",
+          "price": 50,
+          "host_picture_url": "https://a0.muscache.com/im/users/31265444/profile_pic/1429094521/original.jpg?aki_policy=profile_x_medium",
+          "extra_people": 10,
+          "smart_location": "Athina, Greece",
+          "last_review": "2017-05-06",
+          "host_verifications": "email,phone,google,reviews,jumio",
+          "number_of_reviews": 25,
+          "host_response_rate": 100,
+          "minimum_nights": 1,
+          "guests_included": 2,
+          "host_url": "https://www.airbnb.com/users/show/31265444",
+          "host_id": "31265444",
+          "availability_30": 2,
+          "host_total_listings_count": 2,
+          "neighbourhood": "Neapoli",
+          "calculated_host_listings_count": 2,
+          "interaction": "We will be available for guests throughout the day.",
+          "name": "Apartment Patrikia New 1 Bedroom in Central Athens",
+          "medium_url": "https://a0.muscache.com/im/pictures/27d052c9-a681-4183-b998-4d23907ae51b.jpg?aki_policy=medium",
+          "bed_type": "Real Bed",
+          "country": "Greece",
+          "host_response_time": "within an hour",
+          "longitude": "23.74137873529482",
+          "summary": "New 1 Bedroom serviced Apartment in Central Athens only 20 mins walk from centre. Located in Neopoli district very close to Lycabettus hill and Exarcheia. A newly refurbished building with a Garden Terrace. Each one bedroom apartment has Antique furniture, Balcony's , Kitchen, Bathroom with shower and living room with an antique Athenian style double sofa bed. British/Greek owners are on site for you to have a very relaxing enjoyable stay. Everything you require for your comfort will be ready.",
+          "beds": 2,
+          "host_thumbnail_url": "https://a0.muscache.com/im/users/31265444/profile_pic/1429094521/original.jpg?aki_policy=profile_small",
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/27d052c9-a681-4183-b998-4d23907ae51b.jpg?aki_policy=x_large",
+          "host_name": "Martin",
+          "last_scraped": "2017-05-09",
+          "scrape_id": "20170509084221",
+          "review_scores_rating": 98,
+          "review_scores_checkin": 10,
+          "room_type": "Entire home/apt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.74137873529482,
+            37.987950432377794
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:37.852000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "10915230d1772f3c754245a5dfdf905f89be03c0",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 0.18,
+          "bathrooms": 1.0,
+          "first_review": "2014-02-13",
+          "geolocation": [
+            37.98807433719373,
+            23.74918574575878
+          ],
+          "cancellation_policy": "moderate",
+          "accommodates": 2,
+          "calendar_last_scraped": "2017-05-09",
+          "neighbourhood_cleansed": "ΜΟΥΣΕΙΟ-ΕΞΑΡΧΕΙΑ-ΝΕΑΠΟΛΗ",
+          "street": "Athens, Attica 114 71, Greece",
+          "review_scores_communication": 10,
+          "calendar_updated": "12 months ago",
+          "country_code": "GR",
+          "review_scores_cleanliness": 9,
+          "property_type": "Apartment",
+          "availability_365": 363,
+          "id": "1821343",
+          "market": "Athens",
+          "features": "Host Has Profile Pic",
+          "city": "Athens",
+          "space": "This is a modern apartment in the centre of Athens close to the Lycabettus hill. It is fully equipped with quality furniture and electrical devices. It consists of one bedroom, one kitchen, one bathroom and an open space living room. It is on the fifth floor of the building and has a large balcony with flowers. It is located at Lycabettus area and it is only 100m from the hill. The city centre is in a walking distance or easily reached by bus or the nearby metro (Ampelokipi Metro Station) Taxi ride costs less than 4 euros from/to the city center",
+          "availability_60": 58,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(223, 218, 212, 1.00)",
+              "rgba(182, 175, 166, 1.00)",
+              "rgba(111, 79, 63, 1.00)"
+            ],
+            "filename": "ed901594_original.jpg",
+            "width": 639,
+            "id": "58e5d98e2edb6448dcf4c8a630252d90",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "114 71",
+          "host_location": "Athens, Attica, Greece",
+          "availability_90": 88,
+          "state": "Attica",
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/25833015/ed901594_original.jpg?aki_policy=small",
+          "amenities": "TV,Internet,Wireless Internet,Air conditioning,Kitchen,Free parking on premises,Smoking allowed,Pets allowed,Elevator in building,Hot tub,Heating,Washer,Essentials,Shampoo",
+          "host_listings_count": 1,
+          "maximum_nights": 1125,
+          "review_scores_value": 9,
+          "latitude": "37.98807433719373",
+          "review_scores_location": 9,
+          "review_scores_checkin": 9,
+          "host_since": "2013-10-20",
+          "listing_url": "https://www.airbnb.com/rooms/1821343",
+          "bedrooms": 1,
+          "description": "1 bedroom modern apartment situated in a quiet area of Lycabettus Hill.      This is a modern apartment in the centre of Athens close to the Lycabettus hill. It is fully equipped with quality furniture and electrical devices. It consists of one bedroom, one kitchen, one bathroom and an open space living room. It is on the fifth floor of the building and has a large balcony with flowers. It is located at Lycabettus area and it is only 100m from the hill. The city centre is in a walking distance or easily reached by bus or the nearby metro (Ampelokipi Metro Station) Taxi ride costs less than 4 euros from/to the city center",
+          "experiences_offered": "none",
+          "price": 60,
+          "host_picture_url": "https://a0.muscache.com/im/users/9534451/profile_pic/1431022022/original.jpg?aki_policy=profile_x_medium",
+          "extra_people": 10,
+          "smart_location": "Athens, Greece",
+          "last_review": "2015-07-16",
+          "host_verifications": "email,phone,reviews",
+          "number_of_reviews": 7,
+          "host_response_rate": 100,
+          "host_about": "..",
+          "guests_included": 2,
+          "host_url": "https://www.airbnb.com/users/show/9534451",
+          "host_id": "9534451",
+          "availability_30": 28,
+          "host_total_listings_count": 1,
+          "calculated_host_listings_count": 1,
+          "name": "Modern apartment in Lycabettus area",
+          "medium_url": "https://a0.muscache.com/im/pictures/25833015/ed901594_original.jpg?aki_policy=medium",
+          "bed_type": "Real Bed",
+          "country": "Greece",
+          "host_response_time": "within an hour",
+          "longitude": "23.74918574575878",
+          "summary": "1 bedroom modern apartment situated in a quiet area of Lycabettus Hill.",
+          "beds": 1,
+          "minimum_nights": 3,
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/25833015/ed901594_original.jpg?aki_policy=x_large",
+          "host_name": "Meti",
+          "last_scraped": "2017-05-09",
+          "scrape_id": "20170509084221",
+          "review_scores_rating": 90,
+          "host_thumbnail_url": "https://a0.muscache.com/im/users/9534451/profile_pic/1431022022/original.jpg?aki_policy=profile_small",
+          "room_type": "Entire home/apt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.74918574575878,
+            37.98807433719373
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:37.852000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "2c90b340738f0db3e57b6f257ff80948e82e42cf",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 1.72,
+          "bathrooms": 1.0,
+          "first_review": "2015-07-19",
+          "geolocation": [
+            37.98924726419701,
+            23.736033524388542
+          ],
+          "cancellation_policy": "flexible",
+          "accommodates": 2,
+          "calendar_last_scraped": "2017-05-09",
+          "neighbourhood_cleansed": "ΜΟΥΣΕΙΟ-ΕΞΑΡΧΕΙΑ-ΝΕΑΠΟΛΗ",
+          "host_neighbourhood": "Exarcheia",
+          "street": "Exarcheia, Athina, 114 73, Greece",
+          "review_scores_communication": 8,
+          "calendar_updated": "4 months ago",
+          "country_code": "GR",
+          "review_scores_cleanliness": 10,
+          "property_type": "Apartment",
+          "availability_365": 357,
+          "id": "6924470",
+          "market": "Athens",
+          "features": "Host Has Profile Pic,Is Location Exact",
+          "city": "Athina",
+          "space": "The apartment has a free bedroom with two single beds, a fan, a wardrobe, a fully equipped kitchen, one bathroom and Wifi connection. It is around 50 m², with a small private balcony. It is located in the center of Athens, 10 mins walk to the subway, but you can reach many destinations on foot.  The Archaeological Museum is only 5 minutes walking distance and there are also plenty of choices in bars and restaurants around the area! All of the famous places and sight seeings of Athens  are just two or three stops away by using the metro.",
+          "availability_60": 52,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(104, 118, 117, 1.00)",
+              "rgba(128, 129, 129, 1.00)",
+              "rgba(66, 53, 61, 1.00)"
+            ],
+            "filename": "95f59a57_original.jpg",
+            "width": 360,
+            "id": "243ede56c634af5591a090f4094fb904",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "114 73",
+          "host_location": "Athens, Attica, Greece",
+          "availability_90": 82,
+          "review_scores_value": 9,
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/107467431/95f59a57_original.jpg?aki_policy=small",
+          "amenities": "Internet,Wireless Internet,Kitchen,Smoking allowed,Pets live on this property,Cat(s),Elevator in building,Heating,Family/kid friendly,Essentials,Shampoo",
+          "host_listings_count": 1,
+          "maximum_nights": 1125,
+          "listing_url": "https://www.airbnb.com/rooms/6924470",
+          "latitude": "37.98924726419701",
+          "review_scores_location": 8,
+          "review_scores_checkin": 9,
+          "host_since": "2015-06-20",
+          "bedrooms": 1,
+          "description": "The apartment is located in Exarchia, an alternative and artistic area in the heart of Athens. The apartment has a free bedroom with two single beds, a fan, a wardrobe, a fully equipped kitchen, one bathroom and Wifi connection. It is around 50 m², with a small private balcony. It is located in the center of Athens, 10 mins walk to the subway, but you can reach many destinations on foot.  The Archaeological Museum is only 5 minutes walking distance and there are also plenty of choices in bars and restaurants around the area! All of the famous places and sight seeings of Athens  are just two or three stops away by using the metro.",
+          "experiences_offered": "none",
+          "price": 19,
+          "host_picture_url": "https://a0.muscache.com/im/users/36295074/profile_pic/1434835821/original.jpg?aki_policy=profile_x_medium",
+          "extra_people": 0,
+          "smart_location": "Athina, Greece",
+          "last_review": "2017-03-19",
+          "host_verifications": "email,phone,reviews",
+          "number_of_reviews": 38,
+          "host_response_rate": 100,
+          "guests_included": 1,
+          "host_url": "https://www.airbnb.com/users/show/36295074",
+          "host_id": "36295074",
+          "availability_30": 22,
+          "host_total_listings_count": 1,
+          "neighbourhood": "Exarcheia",
+          "calculated_host_listings_count": 1,
+          "name": "Cozy room at the center of Athens",
+          "medium_url": "https://a0.muscache.com/im/pictures/107467431/95f59a57_original.jpg?aki_policy=medium",
+          "bed_type": "Real Bed",
+          "country": "Greece",
+          "host_response_time": "within an hour",
+          "longitude": "23.736033524388542",
+          "summary": "The apartment is located in Exarchia, an alternative and artistic area in the heart of Athens.",
+          "beds": 2,
+          "minimum_nights": 2,
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/107467431/95f59a57_original.jpg?aki_policy=x_large",
+          "host_name": "Natalia",
+          "last_scraped": "2017-05-09",
+          "scrape_id": "20170509084221",
+          "review_scores_rating": 84,
+          "host_thumbnail_url": "https://a0.muscache.com/im/users/36295074/profile_pic/1434835821/original.jpg?aki_policy=profile_small",
+          "room_type": "Private room"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.736033524388542,
+            37.98924726419701
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:37.852000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "8a8d274c9f843962e1ad0138f0e95ca8049d2280",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 1.87,
+          "bathrooms": 4.0,
+          "first_review": "2016-09-27",
+          "geolocation": [
+            37.98640733969206,
+            23.729920738365266
+          ],
+          "cancellation_policy": "moderate",
+          "transit": "In less than 10 mins you reach the pedestrianised network of streets of central Athens, making walking easy. Omonia metro station is 7 mins walk from the flat. From there you have easy access to the airport (50mins) and the port (20mins).",
+          "accommodates": 9,
+          "calendar_last_scraped": "2017-05-09",
+          "medium_url": "https://a0.muscache.com/im/pictures/fa3b3303-e19d-4a6e-a7c3-501e5c55fd2e.jpg?aki_policy=medium",
+          "host_neighbourhood": "Exarcheia",
+          "street": "Exarcheia, Athina, 106 82, Greece",
+          "review_scores_communication": 10,
+          "calendar_updated": "yesterday",
+          "country_code": "GR",
+          "review_scores_cleanliness": 10,
+          "neighborhood_overview": "The flat is centrally located, with most tourist attractions nearby. The National Archaelogical museum is 2 mins away, while the center with the trendy Agia Eirini square full of cafes, restaurants and bars is a 15 min walk. Another 5-10mins and you are at Monastiraki, Plaka, the Acropolis, or the parliament square - basically all the interesting places in Athens. The lively student area of Exarchia with more bars, coffee places and places to eat is just 5 mins away.",
+          "availability_365": 327,
+          "id": "14530018",
+          "neighbourhood": "Exarcheia",
+          "features": "Host Is Superhost,Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+          "city": "Athina",
+          "property_type": "Apartment",
+          "space": "Large 140sqm (1500sqft) prestigious flat in one of the first apartment buildings in Athens overlooking the old university and home to famous singer of the 50s, has been fully restored/renovated maintaining many of the old features. It now has 4 separate rooms with private wc, sharing a spacious dining room, sitting room and fully equipped kitchen. Room 1 has a bedroom, a separate lounge room with a sofa bed and an en-suite bathroom. Room 2 has a private bathroom opposite the bedroom. Room 3 has a walk-in closet and an en-suite bathroom. Room 4 has an en-suite bathroom and faces the back of the building. All bedrooms have beautiful wooden floors, a queen-sized (160cm) bed with very comfortable mattress, air-conditioning,  desk and mirror, and can be locked separately. All rooms have a private wc with shower, and towels, soap and shampoo for you to use. The dining room has a large wooden table. The kitchen is fully equipped and there is a sitting room with maps and tips to plan your day,",
+          "availability_60": 37,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(174, 165, 139, 1.00)",
+              "rgba(160, 144, 114, 1.00)",
+              "rgba(107, 99, 85, 1.00)"
+            ],
+            "filename": "fa3b3303-e19d-4a6e-a7c3-501e5c55fd2e.jpg",
+            "width": 639,
+            "id": "102a97cafed277e31956d610133118a3",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "106 82",
+          "host_location": "Athens, Attica, Greece",
+          "availability_90": 52,
+          "review_scores_value": 10,
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/fa3b3303-e19d-4a6e-a7c3-501e5c55fd2e.jpg?aki_policy=small",
+          "amenities": "Wireless Internet,Air conditioning,Kitchen,Elevator in building,Heating,Family/kid friendly,Washer,Essentials,Shampoo,Hangers,Hair dryer,Iron,Laptop friendly workspace,translation missing: en.hosting_amenity_50",
+          "security_deposit": 250,
+          "maximum_nights": 1125,
+          "host_response_time": "within an hour",
+          "latitude": "37.98640733969206",
+          "review_scores_location": 9,
+          "host_listings_count": 1,
+          "host_since": "2012-12-22",
+          "listing_url": "https://www.airbnb.com/rooms/14530018",
+          "bedrooms": 4,
+          "description": "Fully restored old central Athens apartment, next to the National Archaelogical museum with tourist highlights, cafes and shopping within easy walking distance. The spacious and bright flat boasts 4 bedrooms, one with an extra lounge room with a sofa-bed, and a common dining room, sitting room and kitchen. Each room has a queen sized bed with a super-anatomic mattress and a private bathroom. The flat is 7mins from Omonia metro, offering easy access to airport/port. Large 140sqm (1500sqft) prestigious flat in one of the first apartment buildings in Athens overlooking the old university and home to famous singer of the 50s, has been fully restored/renovated maintaining many of the old features. It now has 4 separate rooms with private wc, sharing a spacious dining room, sitting room and fully equipped kitchen. Room 1 has a bedroom, a separate lounge room with a sofa bed and an en-suite bathroom. Room 2 has a private bathroom opposite the bedroom. Room 3 has a walk-in closet and an en-sui",
+          "experiences_offered": "none",
+          "price": 142,
+          "host_picture_url": "https://a0.muscache.com/im/users/4464673/profile_pic/1401641790/original.jpg?aki_policy=profile_x_medium",
+          "extra_people": 10,
+          "smart_location": "Athina, Greece",
+          "last_review": "2017-04-29",
+          "host_verifications": "email,phone,reviews,jumio",
+          "number_of_reviews": 14,
+          "host_response_rate": 100,
+          "minimum_nights": 3,
+          "host_about": "Born in Athens, and now back in Athens after 20 years in London. Experienced traveller, love to talk about different places and new adventures.",
+          "guests_included": 7,
+          "host_url": "https://www.airbnb.com/users/show/4464673",
+          "host_id": "4464673",
+          "availability_30": 15,
+          "host_total_listings_count": 1,
+          "calculated_host_listings_count": 1,
+          "name": "Spacious 4BD flat next to Archaelogical Museum",
+          "neighbourhood_cleansed": "ΜΟΥΣΕΙΟ-ΕΞΑΡΧΕΙΑ-ΝΕΑΠΟΛΗ",
+          "bed_type": "Real Bed",
+          "country": "Greece",
+          "notes": "The flat boasts wifi with a fast 50Mbps internet connection, a washing machine, hair-dryer, iron and ironing board. The kitchen is fully equipped with electric hobs, fridge-freezer, coffee maker, sandwich toaster, toaster and kettle. No TV! Can also book individual rooms, in which case common areas may be shared with other guests. I will try to accomodate early check in  / late check out, if possible.",
+          "longitude": "23.729920738365266",
+          "summary": "Fully restored old central Athens apartment, next to the National Archaelogical museum with tourist highlights, cafes and shopping within easy walking distance. The spacious and bright flat boasts 4 bedrooms, one with an extra lounge room with a sofa-bed, and a common dining room, sitting room and kitchen. Each room has a queen sized bed with a super-anatomic mattress and a private bathroom. The flat is 7mins from Omonia metro, offering easy access to airport/port.",
+          "beds": 5,
+          "host_thumbnail_url": "https://a0.muscache.com/im/users/4464673/profile_pic/1401641790/original.jpg?aki_policy=profile_small",
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/fa3b3303-e19d-4a6e-a7c3-501e5c55fd2e.jpg?aki_policy=x_large",
+          "cleaning_fee": 75,
+          "host_name": "Alex",
+          "last_scraped": "2017-05-09",
+          "scrape_id": "20170509084221",
+          "review_scores_rating": 99,
+          "review_scores_checkin": 10,
+          "room_type": "Entire home/apt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.729920738365266,
+            37.98640733969206
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:37.852000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "a322229e511e3e6b949cd5e101e192ba525c6ea6",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 1.6,
+          "bathrooms": 1.0,
+          "first_review": "2013-09-09",
+          "geolocation": [
+            30.327249925052055,
+            -97.73823633789547
+          ],
+          "cancellation_policy": "moderate",
+          "transit": "There is convenient access to the Capital Metro system to navigate you throughout the city!  A cab ride downtown would be around only 10!",
+          "accommodates": 4,
+          "calendar_last_scraped": "2017-03-07",
+          "medium_url": "https://a0.muscache.com/im/pictures/22526971/fb913353_original.jpg?aki_policy=medium",
+          "host_neighbourhood": "Brentwood",
+          "street": "Clay Avenue, Austin, TX 78756, United States",
+          "last_scraped": "2017-03-07",
+          "calendar_updated": "5 months ago",
+          "country_code": "US",
+          "review_scores_cleanliness": 10,
+          "neighborhood_overview": "This neighborhood is a very sweet area with plenty of small shops and cafes. Very interesting atmosphere and the friendliest folks around town!",
+          "availability_365": 340,
+          "id": "1535250",
+          "market": "Austin",
+          "features": "Host Is Superhost,Host Has Profile Pic,Is Location Exact,Instant Bookable",
+          "city": "Austin",
+          "property_type": "House",
+          "space": "Feel right at home in this unique living space. Includes modern and comfortable furniture. There is one bedroom and one bathroom. The couch in the living room folds out into a bed, so you can have multiple extra guests comfortably living.",
+          "availability_60": 35,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(140, 130, 101, 1.00)",
+              "rgba(84, 76, 57, 1.00)",
+              "rgba(48, 36, 20, 1.00)"
+            ],
+            "filename": "fb913353_original.jpg",
+            "width": 639,
+            "id": "5c69a17c4cd2dda5aa075f58e8160b70",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "78756",
+          "host_since": "2013-08-15",
+          "host_location": "Austin, Texas, United States",
+          "availability_90": 65,
+          "state": "TX",
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/22526971/fb913353_original.jpg?aki_policy=small",
+          "amenities": "TV,Cable TV,Internet,Wireless Internet,Air conditioning,Kitchen,Free parking on premises,Pets allowed,Heating,Family/kid friendly,Suitable for events,Washer,Dryer,Smoke detector,Carbon monoxide detector,First aid kit,Essentials,Shampoo,24-hour check-in,Hangers,Hair dryer,Iron",
+          "security_deposit": 250,
+          "maximum_nights": 1125,
+          "review_scores_value": 10,
+          "latitude": "30.327249925052055",
+          "review_scores_location": 9,
+          "house_rules": "Pets are allowed - but please only small animals. Cats, or small dogs under 30 pounds.",
+          "monthly_price": 1659,
+          "listing_url": "https://www.airbnb.com/rooms/1535250",
+          "bedrooms": 1,
+          "description": "This adorable home includes a master bedroom with attached bathroom, spacious living room, dining room, and kitchen area! Feel right at home in this unique living space. Includes modern and comfortable furniture. There is one bedroom and one bathroom. The couch in the living room folds out into a bed, so you can have multiple extra guests comfortably living. This neighborhood is a very sweet area with plenty of small shops and cafes. Very interesting atmosphere and the friendliest folks around town! There is convenient access to the Capital Metro system to navigate you throughout the city!  A cab ride downtown would be around only 10! For months/weeks including special events such as SXSW, Formula 1, or ACL, there may be slight price differences. Message me for details.",
+          "review_scores_communication": 10,
+          "experiences_offered": "none",
+          "price": 85,
+          "host_picture_url": "https://a0.muscache.com/im/users/8187341/profile_pic/1376687252/original.jpg?aki_policy=profile_x_medium",
+          "extra_people": 10,
+          "smart_location": "Austin, TX",
+          "weekly_price": 525,
+          "last_review": "2017-01-04",
+          "host_verifications": "email,phone,reviews",
+          "number_of_reviews": 68,
+          "host_response_rate": 100,
+          "minimum_nights": 2,
+          "host_about": "I am the owner of an upscale day spa. I am from Ukraine, but I have lived in central Austin, Texas since 1990! I love my work outs and I love eating healthy. I am also a certified aesthetician and nail technician!",
+          "guests_included": 2,
+          "host_url": "https://www.airbnb.com/users/show/8187341",
+          "host_id": "8187341",
+          "availability_30": 5,
+          "host_response_time": "within a few hours",
+          "host_total_listings_count": 2,
+          "neighbourhood": "Brentwood",
+          "calculated_host_listings_count": 2,
+          "name": "Cute apartment in central Austin!!",
+          "neighbourhood_cleansed": "78756",
+          "bed_type": "Real Bed",
+          "host_listings_count": 2,
+          "notes": "For months/weeks including special events such as SXSW, Formula 1, or ACL, there may be slight price differences. Message me for details.",
+          "longitude": "-97.73823633789547",
+          "summary": "This adorable home includes a master bedroom with attached bathroom, spacious living room, dining room, and kitchen area!",
+          "beds": 2,
+          "host_thumbnail_url": "https://a0.muscache.com/im/users/8187341/profile_pic/1376687252/original.jpg?aki_policy=profile_small",
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/22526971/fb913353_original.jpg?aki_policy=x_large",
+          "cleaning_fee": 60,
+          "host_name": "Natalya",
+          "country": "United States",
+          "scrape_id": "20170306202425",
+          "review_scores_rating": 95,
+          "review_scores_checkin": 10,
+          "room_type": "Entire home/apt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.73823633789547,
+            30.327249925052055
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:53.808000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "ebd0590b6f8eca420a7dba348874005bd0ae90fc",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 0.18,
+          "bathrooms": 1.0,
+          "first_review": "2015-10-26",
+          "geolocation": [
+            30.318778420180685,
+            -97.73136526131321
+          ],
+          "cancellation_policy": "flexible",
+          "accommodates": 3,
+          "calendar_last_scraped": "2017-03-06",
+          "medium_url": "https://a0.muscache.com/im/pictures/eb70626a-ffb6-4151-bd53-e43717c448f6.jpg?aki_policy=medium",
+          "host_neighbourhood": "Brentwood",
+          "street": "The Parker, 5106 North Lamar Boulevard, Austin, TX 78751, United States",
+          "review_scores_communication": 10,
+          "calendar_updated": "10 months ago",
+          "country_code": "US",
+          "review_scores_cleanliness": 10,
+          "property_type": "Apartment",
+          "availability_365": 0,
+          "id": "8993912",
+          "market": "Austin",
+          "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+          "city": "Austin",
+          "availability_60": 0,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(157, 139, 115, 1.00)",
+              "rgba(130, 118, 104, 1.00)",
+              "rgba(86, 80, 81, 1.00)"
+            ],
+            "filename": "eb70626a-ffb6-4151-bd53-e43717c448f6.jpg",
+            "width": 639,
+            "id": "6aed83e1e089a76dc9bfe9606344b7af",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "78751",
+          "host_location": "Austin, Texas, United States",
+          "availability_90": 0,
+          "state": "TX",
+          "amenities": "TV,Cable TV,Internet,Wireless Internet,Air conditioning,Pool,Kitchen,Free parking on premises,Gym,Buzzer/wireless intercom,Heating,Washer,Dryer,Smoke detector,Fire extinguisher,Essentials,Shampoo",
+          "host_listings_count": 1,
+          "maximum_nights": 1125,
+          "review_scores_value": 10,
+          "latitude": "30.318778420180685",
+          "review_scores_location": 10,
+          "review_scores_checkin": 10,
+          "host_since": "2015-10-04",
+          "listing_url": "https://www.airbnb.com/rooms/8993912",
+          "bedrooms": 0,
+          "description": "This space is newly renovated in the heart of Austin. Great furnishings and new sleek appliances.  Includes: - 1 queen size bed in a semi private room (3) walls. - 1 foldable futon in the living area.  - 2 pools with gas grill",
+          "experiences_offered": "none",
+          "price": 110,
+          "host_picture_url": "https://a0.muscache.com/im/users/45763950/profile_pic/1443997958/original.jpg?aki_policy=profile_x_medium",
+          "extra_people": 15,
+          "smart_location": "Austin, TX",
+          "last_review": "2016-03-20",
+          "host_verifications": "email,phone,facebook,reviews,kba",
+          "number_of_reviews": 3,
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/eb70626a-ffb6-4151-bd53-e43717c448f6.jpg?aki_policy=x_large",
+          "host_about": "Im in my early 30's and have lived in Austin, Texas for the past decade. I work for myself as a freelance motion designer in the ad world and travel for work and/or pleasure as often as I can. I'm respectful and courteous and easy to get along with. If you'd like to know more about me feel free to ask. Thanks!",
+          "guests_included": 1,
+          "host_url": "https://www.airbnb.com/users/show/45763950",
+          "host_id": "45763950",
+          "availability_30": 0,
+          "host_total_listings_count": 1,
+          "neighbourhood": "Brentwood",
+          "calculated_host_listings_count": 1,
+          "name": "Great Studio in Central Austin!",
+          "neighbourhood_cleansed": "78756",
+          "bed_type": "Real Bed",
+          "country": "United States",
+          "longitude": "-97.73136526131321",
+          "summary": "This space is newly renovated in the heart of Austin. Great furnishings and new sleek appliances.  Includes: - 1 queen size bed in a semi private room (3) walls. - 1 foldable futon in the living area.  - 2 pools with gas grill",
+          "beds": 2,
+          "minimum_nights": 1,
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/eb70626a-ffb6-4151-bd53-e43717c448f6.jpg?aki_policy=small",
+          "cleaning_fee": 40,
+          "host_name": "Derek",
+          "last_scraped": "2017-03-07",
+          "scrape_id": "20170306202425",
+          "review_scores_rating": 100,
+          "host_thumbnail_url": "https://a0.muscache.com/im/users/45763950/profile_pic/1443997958/original.jpg?aki_policy=profile_small",
+          "room_type": "Entire home/apt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.73136526131321,
+            30.318778420180685
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:53.808000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "c5d1a9a11b902653dc5252eb29f0368d2bc1ffdd",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 1.0,
+          "bathrooms": 1.0,
+          "first_review": "2017-02-25",
+          "geolocation": [
+            30.320393559144208,
+            -97.73135140075085
+          ],
+          "cancellation_policy": "flexible",
+          "accommodates": 2,
+          "calendar_last_scraped": "2017-03-06",
+          "medium_url": "https://a0.muscache.com/im/pictures/6af47584-413f-4e89-a638-3ffa142baa19.jpg?aki_policy=medium",
+          "host_neighbourhood": "Brentwood",
+          "street": "The Parker, 5106 North Lamar Boulevard, Austin, TX 78751, United States",
+          "review_scores_communication": 10,
+          "calendar_updated": "today",
+          "country_code": "US",
+          "review_scores_cleanliness": 10,
+          "property_type": "Apartment",
+          "availability_365": 364,
+          "id": "17381892",
+          "market": "Austin",
+          "features": "Host Has Profile Pic,Is Location Exact,Instant Bookable",
+          "city": "Austin",
+          "availability_60": 59,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(85, 139, 205, 1.00)",
+              "rgba(128, 141, 155, 1.00)",
+              "rgba(119, 105, 80, 1.00)"
+            ],
+            "filename": "6af47584-413f-4e89-a638-3ffa142baa19.jpg",
+            "width": 639,
+            "id": "835949b3a9091f417a2f7e1f90a2387f",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "78751",
+          "host_location": "Austin, Texas, United States",
+          "availability_90": 89,
+          "state": "TX",
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/6af47584-413f-4e89-a638-3ffa142baa19.jpg?aki_policy=small",
+          "amenities": "TV,Wireless Internet,Air conditioning,Pool,Kitchen,Free parking on premises,Pets allowed,Gym,Heating,Family/kid friendly,Smoke detector,Carbon monoxide detector,Fire extinguisher,Essentials,Hangers",
+          "security_deposit": 500,
+          "maximum_nights": 30,
+          "review_scores_value": 10,
+          "latitude": "30.320393559144208",
+          "review_scores_location": 10,
+          "host_listings_count": 6,
+          "host_since": "2016-05-18",
+          "listing_url": "https://www.airbnb.com/rooms/17381892",
+          "bedrooms": 2,
+          "description": "Welcome to The Suites, Where Austin living meets classic Hollywood. The Suites combine impeccable accommodations, stellar surroundings, and first class customer service. When staying here life is filled with upscale amenities and perks. The amazing location puts you near downtown hot spots, retail, restaurants, and night life. When it is time to unwind, head to one of our resort style pools with cabanas, sun loungers and outdoor TV's.",
+          "experiences_offered": "none",
+          "price": 89,
+          "host_picture_url": "https://a0.muscache.com/im/pictures/cd691746-fcdb-4d3e-aaad-f3ab11d3e129.jpg?aki_policy=profile_x_medium",
+          "extra_people": 0,
+          "smart_location": "Austin, TX",
+          "last_review": "2017-02-25",
+          "host_verifications": "email,phone,facebook,reviews",
+          "number_of_reviews": 1,
+          "host_response_rate": 97,
+          "minimum_nights": 1,
+          "guests_included": 1,
+          "host_url": "https://www.airbnb.com/users/show/72682985",
+          "host_id": "72682985",
+          "availability_30": 29,
+          "host_total_listings_count": 6,
+          "neighbourhood": "Brentwood",
+          "calculated_host_listings_count": 5,
+          "name": "The Lodge on Lamar",
+          "neighbourhood_cleansed": "78756",
+          "bed_type": "Real Bed",
+          "country": "United States",
+          "host_response_time": "within an hour",
+          "longitude": "-97.73135140075085",
+          "summary": "Welcome to The Suites, Where Austin living meets classic Hollywood. The Suites combine impeccable accommodations, stellar surroundings, and first class customer service. When staying here life is filled with upscale amenities and perks. The amazing location puts you near downtown hot spots, retail, restaurants, and night life. When it is time to unwind, head to one of our resort style pools with cabanas, sun loungers and outdoor TV's.",
+          "beds": 2,
+          "host_thumbnail_url": "https://a0.muscache.com/im/pictures/cd691746-fcdb-4d3e-aaad-f3ab11d3e129.jpg?aki_policy=profile_small",
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/6af47584-413f-4e89-a638-3ffa142baa19.jpg?aki_policy=x_large",
+          "cleaning_fee": 45,
+          "host_name": "J",
+          "last_scraped": "2017-03-07",
+          "scrape_id": "20170306202425",
+          "review_scores_rating": 100,
+          "review_scores_checkin": 10,
+          "room_type": "Entire home/apt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.73135140075085,
+            30.320393559144208
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:53.808000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "60db347c0337f0a2c0ef58cdcac03e7cf7de3b5d",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 2.03,
+          "bathrooms": 1.0,
+          "first_review": "2016-05-01",
+          "geolocation": [
+            30.32873481692807,
+            -97.74074800453354
+          ],
+          "cancellation_policy": "moderate",
+          "transit": "The property is very close to MetroRapid stop or you can use a taxi/uber",
+          "accommodates": 4,
+          "calendar_last_scraped": "2017-03-06",
+          "medium_url": "https://a0.muscache.com/im/pictures/0564dad5-8db5-4fce-89aa-78159c6823f7.jpg?aki_policy=medium",
+          "host_neighbourhood": "Allendale",
+          "street": "Montview Street, Austin, TX 78756, United States",
+          "last_scraped": "2017-03-07",
+          "calendar_updated": "a week ago",
+          "country_code": "US",
+          "review_scores_cleanliness": 10,
+          "neighborhood_overview": "Allandale is a coveted, very livable neighborhood about 15 minutes north of downtown Austin.  Easy access to restaurants, bars, coffee houses, convenience & grocery stores (many are walkable). Want to try the local fare?  Walk to The Peached Tortilla, Lucy’s Fried Chicken, Fonda San Miguel for Interior Mexican fare, Monkey's Nest Coffee, Epicere Cafe & Grocery.   Looking for a bar to watch the game at or see some live music at?  Walk to Little Woodrows or The Little Longhorn Saloon Have kids?  Walk to Hat Creek Burger Co or Phil’s Icehouse/Amy’s Ice Cream for food and playtime.",
+          "availability_365": 162,
+          "id": "12171920",
+          "market": "Austin",
+          "features": "Host Is Superhost,Host Has Profile Pic,Host Identity Verified,Is Location Exact",
+          "city": "Austin",
+          "property_type": "Apartment",
+          "space": "Cozy and comfortable (approx 600 sq ft), this is a second floor apartment above a garage located in Allandale (near 2222 and Burnet Rd).   It is a 1 bedroom with a sleeper sofa in the living room.  It has a full bath and the kitchen includes a refrigerator, cooktop, microwave, and toaster oven.  Note: There is NOT a dishwasher or full-size oven.  There is a washer/dryer in the garage available for your use. The space is ideal for the solo business traveler, couples traveling alone or with children/friends or for a small group of friends.",
+          "availability_60": 42,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(147, 137, 123, 1.00)",
+              "rgba(88, 90, 82, 1.00)",
+              "rgba(42, 38, 37, 1.00)"
+            ],
+            "filename": "0564dad5-8db5-4fce-89aa-78159c6823f7.jpg",
+            "width": 639,
+            "id": "2a7983791e2673f2c2193b2d1e8de6e4",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "78756",
+          "host_location": "Austin, Texas, United States",
+          "access": "Guests will access the apt via the screened-in patio between the house and apt.   Guests will have full access to the apartment, the balcony off the apartment and the garage for doing laundry (if necessary).   If you have little kids, you are welcome to let them burn off energy in the yard.",
+          "availability_90": 72,
+          "state": "TX",
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/0564dad5-8db5-4fce-89aa-78159c6823f7.jpg?aki_policy=small",
+          "amenities": "TV,Cable TV,Internet,Wireless Internet,Air conditioning,Kitchen,Free parking on premises,Heating,Family/kid friendly,Washer,Dryer,Smoke detector,Essentials,24-hour check-in,Hangers,Hair dryer,Iron",
+          "security_deposit": 300,
+          "maximum_nights": 1125,
+          "review_scores_value": 10,
+          "latitude": "30.32873481692807",
+          "review_scores_location": 10,
+          "house_rules": "This is not a party pad.  It is in a neighborhood so late night loud noise is not allowed. No smoking strictly enforced. No pets. Check out time is 11:00, Check-in time is 4:00. Late check out or early check-in can be arranged.",
+          "host_since": "2016-04-01",
+          "listing_url": "https://www.airbnb.com/rooms/12171920",
+          "bedrooms": 1,
+          "description": "Cozy and comfortable (approx 600 sq ft), this is a second floor apartment above a garage located in the south section of Allandale (near 2222 and Burnet Rd).  Close (many are walkable) to many restaurants, bars, grocery stores, etc. Cozy and comfortable (approx 600 sq ft), this is a second floor apartment above a garage located in Allandale (near 2222 and Burnet Rd).   It is a 1 bedroom with a sleeper sofa in the living room.  It has a full bath and the kitchen includes a refrigerator, cooktop, microwave, and toaster oven.  Note: There is NOT a dishwasher or full-size oven.  There is a washer/dryer in the garage available for your use. The space is ideal for the solo business traveler, couples traveling alone or with children/friends or for a small group of friends. Guests will access the apt via the screened-in patio between the house and apt.   Guests will have full access to the apartment, the balcony off the apartment and the garage for doing laundry (if necessary).   If you have l",
+          "review_scores_communication": 10,
+          "experiences_offered": "none",
+          "price": 115,
+          "host_picture_url": "https://a0.muscache.com/im/pictures/dc8c7437-4f05-41ab-9e60-41d027c3299b.jpg?aki_policy=profile_x_medium",
+          "extra_people": 0,
+          "smart_location": "Austin, TX",
+          "last_review": "2017-02-25",
+          "host_verifications": "email,phone,reviews,jumio,government_id",
+          "number_of_reviews": 21,
+          "host_response_rate": 100,
+          "minimum_nights": 2,
+          "host_response_time": "within an hour",
+          "guests_included": 1,
+          "host_url": "https://www.airbnb.com/users/show/65389398",
+          "host_id": "65389398",
+          "availability_30": 16,
+          "host_total_listings_count": 1,
+          "neighbourhood": "Allendale",
+          "calculated_host_listings_count": 1,
+          "interaction": "Host lives on property in main house. Close-by for questions, suggestions, or problems.   Since the screened-in patio will be used for access to apt, we will likely run into each other. Aside from that, we can have as much or as little interaction as is desired.",
+          "name": "Convenient and cozy garage apt",
+          "neighbourhood_cleansed": "78756",
+          "bed_type": "Real Bed",
+          "host_listings_count": 1,
+          "notes": "Renter must be at least 25 years old, children are welcome. We do have a pack n play in the apartment in case you need one. Parking permit is needed and will be provided by owner  - 25 charge if you fail to turn in permit at end of stay.  1 car maximum. Permit #:  OL (PHONE NUMBER HIDDEN)",
+          "longitude": "-97.74074800453354",
+          "summary": "Cozy and comfortable (approx 600 sq ft), this is a second floor apartment above a garage located in the south section of Allandale (near 2222 and Burnet Rd).  Close (many are walkable) to many restaurants, bars, grocery stores, etc.",
+          "beds": 2,
+          "host_thumbnail_url": "https://a0.muscache.com/im/pictures/dc8c7437-4f05-41ab-9e60-41d027c3299b.jpg?aki_policy=profile_small",
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/0564dad5-8db5-4fce-89aa-78159c6823f7.jpg?aki_policy=x_large",
+          "cleaning_fee": 75,
+          "host_name": "Julie",
+          "country": "United States",
+          "scrape_id": "20170306202425",
+          "review_scores_rating": 99,
+          "review_scores_checkin": 10,
+          "room_type": "Entire home/apt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.74074800453354,
+            30.32873481692807
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:53.808000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "c15d74c764ff501535708e7f6c18f995cf02b2be",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 0.09,
+          "bathrooms": 1.0,
+          "first_review": "2016-03-21",
+          "geolocation": [
+            30.327640611087304,
+            -97.73343705848534
+          ],
+          "cancellation_policy": "flexible",
+          "transit": "Free parking, local bus routes near by, Greyhound bus station near by, metro train near by",
+          "accommodates": 1,
+          "calendar_last_scraped": "2017-03-07",
+          "neighbourhood_cleansed": "78756",
+          "host_neighbourhood": "Brentwood",
+          "street": "Grover Avenue, Austin, TX 78756, United States",
+          "review_scores_communication": 10,
+          "calendar_updated": "5 months ago",
+          "country_code": "US",
+          "review_scores_cleanliness": 10,
+          "neighborhood_overview": "I am a native Austinite and can offer many many great tips on how to enjoy your stay here, the sights, sounds, music, culture, community, nature",
+          "availability_365": 357,
+          "id": "11167826",
+          "market": "Austin",
+          "features": "Host Has Profile Pic,Is Location Exact,Instant Bookable",
+          "city": "Austin",
+          "property_type": "Townhouse",
+          "space": "My spacious living room is available for guests, with a patio easily accessible, no smoking cigarettes inside, but if you smoke, you may step outside on the front patio, with plenty of comfortable seats available to enjoy your stay.  I'm an easy going young professional, a musician and public speaker for charities and non profits.  I think we can all make the world a better place by being better ourselves",
+          "availability_60": 52,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(235, 242, 246, 1.00)",
+              "rgba(199, 199, 191, 1.00)",
+              "rgba(94, 91, 47, 1.00)"
+            ],
+            "filename": "17208b09-04f3-49c4-8c9a-19afdb1f4b87.jpg",
+            "width": 639,
+            "id": "3ec8b222c7979d910ff4321c33c72f5e",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "78756",
+          "host_location": "Austin, Texas, United States",
+          "access": "I have both a loveseat and a couch available, with wifi, kitchen, and bathroom. On weekdays, guests must leave in the morning before 7am Central Standard Time, as that is when I lock up and leave for work.  Friday and Saturday nights, guests can sleep in, with check out times noon to 1pm Central Standard Time.",
+          "availability_90": 82,
+          "state": "TX",
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/17208b09-04f3-49c4-8c9a-19afdb1f4b87.jpg?aki_policy=small",
+          "amenities": "Internet,Wireless Internet,Air conditioning,Kitchen,Free parking on premises,Heating,Family/kid friendly,Smoke detector,First aid kit,Safety card,Hangers,Laptop friendly workspace",
+          "host_listings_count": 1,
+          "maximum_nights": 1125,
+          "review_scores_value": 10,
+          "latitude": "30.327640611087304",
+          "review_scores_location": 10,
+          "house_rules": "Please clean up after yourself, wash any dishes you use, be respectful, give what you wish to receive interaction wise, no drugs, beer or wine is ok but not to the point of getting drunk.  I am a great conversationalist, but may not have time to be super social depending on my work schedule, but often, it may work out we toast to manifesting the best destiny and have a cool convo if the dynamic is right.",
+          "host_since": "2016-02-09",
+          "listing_url": "https://www.airbnb.com/rooms/11167826",
+          "bedrooms": 1,
+          "description": "My townhome is 2 stories of luxury living, in one of the nicest neighborhoods in Austin, with access to nice eateries, great bars, coffee shops & walk & shop areas. Near Greyhound bus station, & city buses, with an at home library 100+ books as well My spacious living room is available for guests, with a patio easily accessible, no smoking cigarettes inside, but if you smoke, you may step outside on the front patio, with plenty of comfortable seats available to enjoy your stay.  I'm an easy going young professional, a musician and public speaker for charities and non profits.  I think we can all make the world a better place by being better ourselves I have both a loveseat and a couch available, with wifi, kitchen, and bathroom. On weekdays, guests must leave in the morning before 7am Central Standard Time, as that is when I lock up and leave for work.  Friday and Saturday nights, guests can sleep in, with check out times noon to 1pm Central Standard Time. I'm an honest straight forwar",
+          "host_response_time": "within a few hours",
+          "experiences_offered": "none",
+          "price": 54,
+          "host_picture_url": "https://a0.muscache.com/im/pictures/47bf5dec-9cff-48be-86c3-c7b9d613dcdc.jpg?aki_policy=profile_x_medium",
+          "extra_people": 0,
+          "smart_location": "Austin, TX",
+          "last_review": "2016-03-21",
+          "host_verifications": "email,phone,reviews",
+          "number_of_reviews": 1,
+          "host_response_rate": 100,
+          "minimum_nights": 1,
+          "host_about": "I'm a friendly honest person who enjoys feeling like I'm\r\nmaking the world a better place through volunteering\r\nat homeless shelters, teaching kids to juggle at summer camps,\r\nworking with nonprofits and community orgs to support my\r\ncity being the best place to live.  My past times include art, and music, making songs that are positive and uplift the global consciousness. We are all works in progress, as long as we continue to progress.  I'm real with you as long as you are real with me. \r\n\r\nAfter more than one person canceling reservations after saying they are definitely staying here during SXSW, I politely ask for dependable trust worthy requests and clear communication, with as little flakiness as possible.\r\nIf your request is preapproved, please confirm and book within a few hours so that I may inform others also wanting to check in, I appreciate your understanding. Thanks!",
+          "guests_included": 1,
+          "host_url": "https://www.airbnb.com/users/show/58103021",
+          "host_id": "58103021",
+          "availability_30": 22,
+          "host_total_listings_count": 1,
+          "neighbourhood": "Brentwood",
+          "calculated_host_listings_count": 1,
+          "interaction": "I'm an honest straight forward person, friendliness and good communication skills go a long way, and will ensure your stay is pleasant",
+          "name": "North Hyde Park Townhome",
+          "medium_url": "https://a0.muscache.com/im/pictures/17208b09-04f3-49c4-8c9a-19afdb1f4b87.jpg?aki_policy=medium",
+          "bed_type": "Real Bed",
+          "country": "United States",
+          "notes": "Several city bus lines are near by, as well as a metro train, and I am located close to the Greyhound bus station",
+          "longitude": "-97.73343705848534",
+          "summary": "My townhome is 2 stories of luxury living, in one of the nicest neighborhoods in Austin, with access to nice eateries, great bars, coffee shops & walk & shop areas. Near Greyhound bus station, & city buses, with an at home library 100+ books as well",
+          "beds": 2,
+          "host_thumbnail_url": "https://a0.muscache.com/im/pictures/47bf5dec-9cff-48be-86c3-c7b9d613dcdc.jpg?aki_policy=profile_small",
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/17208b09-04f3-49c4-8c9a-19afdb1f4b87.jpg?aki_policy=x_large",
+          "host_name": "Trevor",
+          "last_scraped": "2017-03-07",
+          "scrape_id": "20170306202425",
+          "review_scores_rating": 100,
+          "review_scores_checkin": 10,
+          "room_type": "Shared room"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.73343705848534,
+            30.327640611087304
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:53.808000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "60d645f6d715615c38bfa32df1865e2fc52717a9",
+        "fields": {
+          "geolocation": [
+            30.304228338257428,
+            -97.74065901820488
+          ],
+          "bathrooms": 1.0,
+          "features": "Host Has Profile Pic,Host Identity Verified,Is Location Exact,Instant Bookable",
+          "cancellation_policy": "strict",
+          "transit": "Free parking, public bus route 801/803 directly outside apartment complex.",
+          "accommodates": 5,
+          "calendar_last_scraped": "2017-03-06",
+          "neighbourhood_cleansed": "78751",
+          "host_neighbourhood": "Rosedale",
+          "street": "West 38th Street, Austin, TX 78705, United States",
+          "calendar_updated": "2 weeks ago",
+          "country_code": "US",
+          "neighborhood_overview": "Hyde Park, a very safe neighborhood, is a 10 minute drive from downtown and a 5 minute drive to the University of Texas campus. It's very walkable, quiet, beautiful and relaxing compared to the hustle of busy downtown during SXSW.",
+          "availability_365": 17,
+          "id": "17408279",
+          "market": "Austin",
+          "listing_url": "https://www.airbnb.com/rooms/17408279",
+          "city": "Austin",
+          "property_type": "Apartment",
+          "space": "Great share if you're coming with friends, share beds or don't mind sleeping on a couch.",
+          "availability_60": 5,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(169, 145, 109, 1.00)",
+              "rgba(103, 79, 53, 1.00)",
+              "rgba(88, 54, 28, 1.00)"
+            ],
+            "filename": "a723c98d-4791-4cb0-82ba-dd542054b10f.jpg",
+            "width": 639,
+            "id": "15ccdd770576fe97b3fb5474c06d71b8",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "78705",
+          "host_location": "New York, New York, United States",
+          "access": "Gate access to pool, gym, jogging trail, business center and parking garage.",
+          "availability_90": 17,
+          "state": "TX",
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/a723c98d-4791-4cb0-82ba-dd542054b10f.jpg?aki_policy=small",
+          "amenities": "TV,Wireless Internet,Air conditioning,Pool,Kitchen,Free parking on premises,Gym,Breakfast,Heating,Washer,Dryer,Smoke detector,First aid kit,Fire extinguisher,Essentials,Shampoo,Lock on bedroom door,Hangers,Iron,Laptop friendly workspace,translation missing: en.hosting_amenity_49,translation missing: en.hosting_amenity_50,Private entrance",
+          "host_listings_count": 1,
+          "maximum_nights": 1125,
+          "host_response_time": "within an hour",
+          "latitude": "30.304228338257428",
+          "house_rules": "- Be respectful of neighbors.",
+          "host_since": "2012-06-23",
+          "bedrooms": 2,
+          "description": "Our first floor apartment has over 1,000 sq ft of open kitchen/living room/dining room space, a large balcony with seating, 2 large bedrooms and a dual-vanity bathroom (with amazing water pressure!). Rental comes with 1 parking spot and a variety of free guest spots. Rental is located within a short walking distance of a gorgeous grocery store, shopping, Starbucks, a sports bar and multiple restaurants.  The public bus line is a 5 minute walk away and makes getting to SXSW easy and affordable. Great share if you're coming with friends, share beds or don't mind sleeping on a couch. Gate access to pool, gym, jogging trail, business center and parking garage. I am in town and available for any questions, concerns,  or needs. As a concierge, I can help guests with public transportation, advice on neighborhoods, restaurants, and things to do around town. Hyde Park, a very safe neighborhood, is a 10 minute drive from downtown and a 5 minute drive to the University of Texas campus. It's very",
+          "experiences_offered": "none",
+          "price": 300,
+          "host_picture_url": "https://a0.muscache.com/im/users/2721177/profile_pic/1341856351/original.jpg?aki_policy=profile_x_medium",
+          "extra_people": 0,
+          "smart_location": "Austin, TX",
+          "host_verifications": "email,phone,facebook,reviews,kba",
+          "number_of_reviews": 0,
+          "host_response_rate": 100,
+          "host_about": "A city-dweller for 5 years, I am a young professional copywriter, making my living writing ads for a big ad agency. I am single, but live with my trusty dog, Jude. Together we run, jog and roam the city. I want to travel more, so I signed up for this site in hopes to get out of the city and have nice people stay at my place to help me pay for my adventures. \r\n\r\nI love finding new bars and restaurants, and the Upper East Side is the perfect place to do just that. \r\n\r\nIf you're visiting the city, I'd say definitely bring along a subway map because taxis can be pricey, and always bring an iPod or music with you. It's a great way to pass the time while you walk around, and make your own city soundtrack.",
+          "guests_included": 1,
+          "host_url": "https://www.airbnb.com/users/show/2721177",
+          "host_id": "2721177",
+          "availability_30": 5,
+          "neighbourhood": "Rosedale",
+          "calculated_host_listings_count": 1,
+          "interaction": "I am in town and available for any questions, concerns,  or needs. As a concierge, I can help guests with public transportation, advice on neighborhoods, restaurants, and things to do around town.",
+          "name": "Entire Apartment for SXSW Getaway",
+          "medium_url": "https://a0.muscache.com/im/pictures/a723c98d-4791-4cb0-82ba-dd542054b10f.jpg?aki_policy=medium",
+          "bed_type": "Real Bed",
+          "country": "United States",
+          "notes": "Apartment is very clean, free or bed bugs or pet hair, smoke or other allergy concerns.",
+          "longitude": "-97.74065901820488",
+          "summary": "Our first floor apartment has over 1,000 sq ft of open kitchen/living room/dining room space, a large balcony with seating, 2 large bedrooms and a dual-vanity bathroom (with amazing water pressure!). Rental comes with 1 parking spot and a variety of free guest spots. Rental is located within a short walking distance of a gorgeous grocery store, shopping, Starbucks, a sports bar and multiple restaurants.  The public bus line is a 5 minute walk away and makes getting to SXSW easy and affordable.",
+          "beds": 2,
+          "minimum_nights": 3,
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/a723c98d-4791-4cb0-82ba-dd542054b10f.jpg?aki_policy=x_large",
+          "host_name": "Jenny",
+          "last_scraped": "2017-03-07",
+          "scrape_id": "20170306202425",
+          "host_total_listings_count": 1,
+          "host_thumbnail_url": "https://a0.muscache.com/im/users/2721177/profile_pic/1341856351/original.jpg?aki_policy=profile_small",
+          "room_type": "Entire home/apt"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.74065901820488,
+            30.304228338257428
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:53.808000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "b17b5e078c0004478742d42d181ddfcd0477edb7",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 0.09,
+          "bathrooms": 1.0,
+          "first_review": "2016-03-21",
+          "geolocation": [
+            30.315189034214814,
+            -97.73301397917726
+          ],
+          "cancellation_policy": "strict",
+          "accommodates": 5,
+          "calendar_last_scraped": "2017-03-06",
+          "neighbourhood_cleansed": "78751",
+          "host_neighbourhood": "North Loop",
+          "street": "West Guadalupe Street, Austin, TX 78751, United States",
+          "review_scores_communication": 10,
+          "calendar_updated": "12 months ago",
+          "country_code": "US",
+          "review_scores_cleanliness": 10,
+          "property_type": "Apartment",
+          "availability_365": 365,
+          "id": "11057674",
+          "market": "Austin",
+          "features": "Host Has Profile Pic,Is Location Exact",
+          "city": "Austin",
+          "availability_60": 60,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(75, 67, 59, 1.00)",
+              "rgba(107, 104, 101, 1.00)",
+              "rgba(69, 64, 64, 1.00)"
+            ],
+            "filename": "424ebad6-a363-499b-98a6-7e31edb2b6e4.jpg",
+            "width": 480,
+            "id": "724f8fc83d18511ab5f7f9bae2353898",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "78751",
+          "host_location": "Austin, Texas, United States",
+          "availability_90": 90,
+          "state": "TX",
+          "amenities": "TV,Cable TV,Internet,Wireless Internet,Air conditioning,Pool,Kitchen,Smoking allowed,Gym,Elevator in building,Heating,Family/kid friendly,Suitable for events,Washer,Dryer,Smoke detector,Essentials,Shampoo,Lock on bedroom door",
+          "host_listings_count": 1,
+          "maximum_nights": 11,
+          "review_scores_value": 10,
+          "latitude": "30.315189034214814",
+          "review_scores_location": 10,
+          "house_rules": "The only rule is to please not break or destroy any property",
+          "host_since": "2016-02-04",
+          "listing_url": "https://www.airbnb.com/rooms/11057674",
+          "bedrooms": 1,
+          "description": "This apartment complex is called \"The triangle\" it is located in a plaza that has restaurants, bars and even a spa at just feet away from the apartment.",
+          "experiences_offered": "none",
+          "price": 210,
+          "host_picture_url": "https://a0.muscache.com/im/pictures/034e0006-1092-4b77-a7f1-434ec6224fa9.jpg?aki_policy=profile_x_medium",
+          "extra_people": 100,
+          "smart_location": "Austin, TX",
+          "last_review": "2016-03-21",
+          "host_verifications": "email,phone,reviews",
+          "number_of_reviews": 1,
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/424ebad6-a363-499b-98a6-7e31edb2b6e4.jpg?aki_policy=x_large",
+          "minimum_nights": 3,
+          "guests_included": 1,
+          "host_url": "https://www.airbnb.com/users/show/57390632",
+          "host_id": "57390632",
+          "availability_30": 30,
+          "host_total_listings_count": 1,
+          "neighbourhood": "North Loop",
+          "calculated_host_listings_count": 1,
+          "name": "Family-friendly,",
+          "medium_url": "https://a0.muscache.com/im/pictures/424ebad6-a363-499b-98a6-7e31edb2b6e4.jpg?aki_policy=medium",
+          "bed_type": "Real Bed",
+          "country": "United States",
+          "longitude": "-97.73301397917726",
+          "summary": "This apartment complex is called \"The triangle\" it is located in a plaza that has restaurants, bars and even a spa at just feet away from the apartment.",
+          "beds": 3,
+          "host_thumbnail_url": "https://a0.muscache.com/im/pictures/034e0006-1092-4b77-a7f1-434ec6224fa9.jpg?aki_policy=profile_small",
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/424ebad6-a363-499b-98a6-7e31edb2b6e4.jpg?aki_policy=small",
+          "host_name": "Manuel",
+          "last_scraped": "2017-03-07",
+          "scrape_id": "20170306202425",
+          "review_scores_rating": 100,
+          "review_scores_checkin": 10,
+          "room_type": "Private room"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.73301397917726,
+            30.315189034214814
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:53.808000+02:00"
+      },
+      {
+        "datasetid": "airbnb-listings",
+        "recordid": "8295e61e75b7a5f48f3cebb19a12855c0b9925f4",
+        "fields": {
+          "review_scores_accuracy": 10,
+          "reviews_per_month": 0.32,
+          "bathrooms": 1.0,
+          "first_review": "2015-11-21",
+          "geolocation": [
+            30.310005123674674,
+            -97.71731683718421
+          ],
+          "cancellation_policy": "flexible",
+          "transit": "We're about 3 miles north of downtown and the University area. If you have a car, there's convenient street parking in front of the house. Otherwise, we've listed some transportation options below: • Bikes - It's a pretty relaxed, 15 minute bike ride (2-3 miles) to the capitol building/downtown/6th street area, though slightly more on the way back because it's a bit uphill. You can use the bike map to decide if this is a good option for you based on your itinerary and how much you like biking. We think that one of the best ways to enjoy Austin is by bicycle, and most people who have stayed with us have loved the freedom of being able to bike around the city. • Buses - There's a bus stop down the street from our house and Capital Metro's Trip Planner is pretty great for learning how to get from place to place. Buses generally arrive about every 20 minutes, but the buses aren't always on time and they don't run very late. You can also put bikes on the bus, but there is only space for two",
+          "accommodates": 2,
+          "calendar_last_scraped": "2017-03-06",
+          "medium_url": "https://a0.muscache.com/im/pictures/111705521/1f1bf096_original.jpg?aki_policy=medium",
+          "host_neighbourhood": "Hancock",
+          "street": "Red River Street, Austin, TX 78751, United States",
+          "review_scores_communication": 10,
+          "calendar_updated": "yesterday",
+          "country_code": "US",
+          "review_scores_cleanliness": 9,
+          "neighborhood_overview": "We live in the fun and friendly Hyde Park/North Loop area. We're located near the Hancock Shopping center, where there's a big grocery store (H-E-B) and a handful of other shops. We're also within walking/biking distance to some great coffee shops and bars, bookstores, vintage stores, farmer's markets, yoga studios, a bike shop, a juice bar, vegan ice cream parlor, a donut shop, some pizza shops, a few restaurants, and several food trailers (like a biscuits and gravy trailer and a vegan taco trailer). More details about places near us can be found in your room.",
+          "availability_365": 354,
+          "id": "8828449",
+          "market": "Austin",
+          "features": "Host Is Superhost,Host Has Profile Pic,Host Identity Verified,Is Location Exact,Require Guest Profile Picture",
+          "city": "Austin",
+          "property_type": "House",
+          "space": "You'll be renting a studio space in our house. It has a couch, an air mattress, and a granite-top work desk with a stool. The room has three windows, so it lets in lots of natural light if you open the curtains. It is just down the hall from the bathroom, which is shared with the rest of the household (Cristen, Miguel, and Daniel).",
+          "availability_60": 49,
+          "picture_url": {
+            "mimetype": "image/jpeg",
+            "format": "JPEG",
+            "color_summary": [
+              "rgba(121, 121, 114, 1.00)",
+              "rgba(95, 106, 100, 1.00)",
+              "rgba(113, 111, 98, 1.00)"
+            ],
+            "filename": "1f1bf096_original.jpg",
+            "width": 639,
+            "id": "0ba3dac4e3613424ff71287fa855148f",
+            "height": 426,
+            "thumbnail": true
+          },
+          "zipcode": "78751",
+          "host_since": "2010-02-23",
+          "host_location": "Austin, Texas, United States",
+          "access": "Renters have access to:  • 1 ROOM (available for one or two people)  • CLEAN BLANKETS, SHEETS, and TOWELS  • WIFI  • BIKE WITH LOCK & LIGHTS We think that the best way to enjoy Austin is by bicycle and we have several bikes to choose from. They are not the nicest, newest bikes, but they'll get you where you need to go. Most people who borrow them are happy with them.  • WASHING MACHINE We have a washing machine that you're welcome to use. • TEA/COFFEE You're welcome to help yourself to coffee, tea, and whatever breakfast materials we happen to have at the moment (fruit, bread, jams, granola, etc.) • KITCHEN  We have lots of pots, pans, utensils, and spices for those who want to cook meals at the house. We also love cooking and if you stay with us long enough, you'll likely be invited to share a meal with us. • LIVING ROOM/PORCH AREA  We like to think of our place as one big compound where everyone shares the communal spaces (living/porch/backyard areas) and everyone feels welcome, so d",
+          "availability_90": 79,
+          "state": "TX",
+          "thumbnail_url": "https://a0.muscache.com/im/pictures/111705521/1f1bf096_original.jpg?aki_policy=small",
+          "amenities": "Internet,Wireless Internet,Air conditioning,Kitchen,Free parking on premises,Pets live on this property,Cat(s),Heating,Washer,Dryer,Essentials,Shampoo,Iron,Laptop friendly workspace",
+          "host_listings_count": 2,
+          "maximum_nights": 1125,
+          "review_scores_value": 10,
+          "latitude": "30.310005123674674",
+          "review_scores_location": 10,
+          "house_rules": "We live a pretty communal lifestyle and are used to sharing our living space with other people. It's a good vibe around here where everyone does their part to make this a comfortable place to be. Here are some house rules that we expect all guests to follow. It's a compilation of things we've encountered after years of hosting. -Check-in/check-out times are usually very flexible, but please let us know in advance what to expect. This helps us plan our day and to make sure we have enough time to clean the room before/after other guests. -Smoking is not allowed indoors. -Don't bring other people to the house unless you clear it with us first (this includes friends, strangers from the bar, etc. If you book as one person, you should arrive as one person.) -If you borrow a bike, please take good care of it. Bikes locked downtown overnight can easily be stolen, so it is your responsibility to bring the bike back to the house. Same goes for bike lights. Please take them off the bike when park",
+          "monthly_price": 700,
+          "listing_url": "https://www.airbnb.com/rooms/8828449",
+          "bedrooms": 1,
+          "description": "This is a studio room for one or two people in our cozy and lively Austin house (located in the Hyde Park/North Loop area). It's a short bus ride to downtown and your room comes with bikes for adventuring around the city during SXSW. You'll be renting a studio space in our house. It has a couch, an air mattress, and a granite-top work desk with a stool. The room has three windows, so it lets in lots of natural light if you open the curtains. It is just down the hall from the bathroom, which is shared with the rest of the household (Cristen, Miguel, and Daniel). Renters have access to:  • 1 ROOM (available for one or two people)  • CLEAN BLANKETS, SHEETS, and TOWELS  • WIFI  • BIKE WITH LOCK & LIGHTS We think that the best way to enjoy Austin is by bicycle and we have several bikes to choose from. They are not the nicest, newest bikes, but they'll get you where you need to go. Most people who borrow them are happy with them.  • WASHING MACHINE We have a washing machine that you're welco",
+          "host_response_time": "within a day",
+          "experiences_offered": "none",
+          "price": 52,
+          "host_picture_url": "https://a0.muscache.com/im/users/84730/profile_pic/1422291882/original.jpg?aki_policy=profile_x_medium",
+          "extra_people": 20,
+          "smart_location": "Austin, TX",
+          "weekly_price": 230,
+          "last_review": "2016-07-12",
+          "host_verifications": "email,phone,facebook,reviews,kba",
+          "number_of_reviews": 5,
+          "host_response_rate": 50,
+          "minimum_nights": 1,
+          "host_about": "I like gardening, cooking, reading, being outdoors, working on various crafty endeavors, and taking advantage of all the amazing events and live music in our city. I've been in Austin my whole life and I can't seem to leave. That said, I love to travel and I've spent time in many different places around the world. I work as a freelance educational writer and spend most of my time during the week working in the office room of our house or at a coffee shop nearby. I'm the one who manages our Airbnb listing, but I live with my partner, Miguel, and Catbus, an orange cat who adopted us a few years ago. Miguel works at a Mediterranean cafe, and also does screen printing, carpentry, and landscaping work. We both love meeting new people and opening up our home to fun folks who need a short-term place to stay in Austin. We live a pretty communal lifestyle and are used to sharing our living space with other people.",
+          "guests_included": 1,
+          "host_url": "https://www.airbnb.com/users/show/84730",
+          "host_id": "84730",
+          "availability_30": 19,
+          "host_total_listings_count": 2,
+          "neighbourhood": "Hancock",
+          "calculated_host_listings_count": 1,
+          "interaction": "If you're someone who likes to keep to yourself, you'll have all the privacy you want in your room. The house is often pretty quiet during the week and we tend to keep busy, so minimal interaction with us is absolutely fine. We keep the common areas clean, and we're always respectful of our guests and their personal space. If you're into a more social atmosphere, that's cool too. Some weeks are quieter than others, but you're certainly welcome to join in on anything we end up doing while your'e in town. We also sometimes have people over for dinner, movies, backyard bonfires, and other gatherings. We want to make sure that those who stay with us feel comfortable and welcome, so if there's anything you need, just ask! We're happy to answer any questions or recommend things for you to do!",
+          "name": "Room + Bike in Hyde Park",
+          "neighbourhood_cleansed": "78751",
+          "bed_type": "Real Bed",
+          "country": "United States",
+          "notes": "We love our happy home, feel it's a great representation of Austin, and enjoy sharing it with people who will appreciate it too. That said, we know our house is not for everyone. We've shared our home with quite a few people over the years, so we've learned what works and what doesn't. Please read below to make sure our place is a good fit for you, and if you have any questions, don't hesitate to ask. THIS IS A GREAT PLACE FOR YOU IF:  • You're looking for an old, unconventional Austin house with a lot of character in a fun, friendly environment  • You're laid back, easy to get along with, and would rather stay with local Austinites than in a hotel • You have a complete profile (THAT IS YOUR PROFILE) with a photo and are willing to send us a personalized request. If we're going to open up our house to you, we want to know who you are.",
+          "longitude": "-97.71731683718421",
+          "summary": "This is a studio room for one or two people in our cozy and lively Austin house (located in the Hyde Park/North Loop area). It's a short bus ride to downtown and your room comes with bikes for adventuring around the city during SXSW.",
+          "beds": 1,
+          "host_thumbnail_url": "https://a0.muscache.com/im/users/84730/profile_pic/1422291882/original.jpg?aki_policy=profile_small",
+          "xl_picture_url": "https://a0.muscache.com/im/pictures/111705521/1f1bf096_original.jpg?aki_policy=x_large",
+          "host_name": "Cristen",
+          "last_scraped": "2017-03-07",
+          "scrape_id": "20170306202425",
+          "review_scores_rating": 100,
+          "review_scores_checkin": 10,
+          "room_type": "Private room"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -97.71731683718421,
+            30.310005123674674
+          ]
+        },
+        "record_timestamp": "2017-07-12T11:09:53.808000+02:00"
+      }
+    ],
+    "facet_groups": [
+      {
+        "facets": [
+          {
+            "count": 54513,
+            "path": "Paris",
+            "state": "displayed",
+            "name": "Paris"
+          },
+          {
+            "count": 47423,
+            "path": "London",
+            "state": "displayed",
+            "name": "London"
+          },
+          {
+            "count": 20454,
+            "path": "Berlin",
+            "state": "displayed",
+            "name": "Berlin"
+          },
+          {
+            "count": 19528,
+            "path": "New York",
+            "state": "displayed",
+            "name": "New York"
+          },
+          {
+            "count": 19426,
+            "path": "Los Angeles",
+            "state": "displayed",
+            "name": "Los Angeles"
+          },
+          {
+            "count": 18618,
+            "path": "Roma",
+            "state": "displayed",
+            "name": "Roma"
+          },
+          {
+            "count": 17431,
+            "path": "Barcelona",
+            "state": "displayed",
+            "name": "Barcelona"
+          },
+          {
+            "count": 16419,
+            "path": "Brooklyn",
+            "state": "displayed",
+            "name": "Brooklyn"
+          },
+          {
+            "count": 14869,
+            "path": "Amsterdam",
+            "state": "displayed",
+            "name": "Amsterdam"
+          },
+          {
+            "count": 13805,
+            "path": "København",
+            "state": "displayed",
+            "name": "København"
+          },
+          {
+            "count": 13207,
+            "path": "Madrid",
+            "state": "displayed",
+            "name": "Madrid"
+          },
+          {
+            "count": 12624,
+            "path": "Toronto",
+            "state": "displayed",
+            "name": "Toronto"
+          },
+          {
+            "count": 9563,
+            "path": "Austin",
+            "state": "displayed",
+            "name": "Austin"
+          },
+          {
+            "count": 8680,
+            "path": "San Francisco",
+            "state": "displayed",
+            "name": "San Francisco"
+          },
+          {
+            "count": 7692,
+            "path": "Washington",
+            "state": "displayed",
+            "name": "Washington"
+          },
+          {
+            "count": 7659,
+            "path": "Montréal",
+            "state": "displayed",
+            "name": "Montréal"
+          },
+          {
+            "count": 6201,
+            "path": "San Diego",
+            "state": "displayed",
+            "name": "San Diego"
+          },
+          {
+            "count": 6130,
+            "path": "Edinburgh",
+            "state": "displayed",
+            "name": "Edinburgh"
+          },
+          {
+            "count": 6121,
+            "path": "Wien",
+            "state": "displayed",
+            "name": "Wien"
+          },
+          {
+            "count": 6064,
+            "path": "Rome",
+            "state": "displayed",
+            "name": "Rome"
+          },
+          {
+            "count": 5532,
+            "path": "Vancouver",
+            "state": "displayed",
+            "name": "Vancouver"
+          },
+          {
+            "count": 5293,
+            "path": "New Orleans",
+            "state": "displayed",
+            "name": "New Orleans"
+          },
+          {
+            "count": 5186,
+            "path": "Chicago",
+            "state": "displayed",
+            "name": "Chicago"
+          },
+          {
+            "count": 4263,
+            "path": "Dublin",
+            "state": "displayed",
+            "name": "Dublin"
+          },
+          {
+            "count": 4067,
+            "path": "Venezia",
+            "state": "displayed",
+            "name": "Venezia"
+          },
+          {
+            "count": 3859,
+            "path": "Hong Kong",
+            "state": "displayed",
+            "name": "Hong Kong"
+          },
+          {
+            "count": 3812,
+            "path": "Seattle",
+            "state": "displayed",
+            "name": "Seattle"
+          },
+          {
+            "count": 3560,
+            "path": "Athina",
+            "state": "displayed",
+            "name": "Athina"
+          },
+          {
+            "count": 3539,
+            "path": "Portland",
+            "state": "displayed",
+            "name": "Portland"
+          },
+          {
+            "count": 3382,
+            "path": "Boston",
+            "state": "displayed",
+            "name": "Boston"
+          },
+          {
+            "count": 3326,
+            "path": "Copenhagen",
+            "state": "displayed",
+            "name": "Copenhagen"
+          },
+          {
+            "count": 3212,
+            "path": "Nashville",
+            "state": "displayed",
+            "name": "Nashville"
+          },
+          {
+            "count": 2670,
+            "path": "Montreal",
+            "state": "displayed",
+            "name": "Montreal"
+          },
+          {
+            "count": 2670,
+            "path": "Queens",
+            "state": "displayed",
+            "name": "Queens"
+          },
+          {
+            "count": 2497,
+            "path": "Denver",
+            "state": "displayed",
+            "name": "Denver"
+          },
+          {
+            "count": 2391,
+            "path": "Frederiksberg",
+            "state": "displayed",
+            "name": "Frederiksberg"
+          },
+          {
+            "count": 2097,
+            "path": "Melbourne",
+            "state": "displayed",
+            "name": "Melbourne"
+          },
+          {
+            "count": 1994,
+            "path": "Palma",
+            "state": "displayed",
+            "name": "Palma"
+          },
+          {
+            "count": 1937,
+            "path": "Venice",
+            "state": "displayed",
+            "name": "Venice"
+          },
+          {
+            "count": 1670,
+            "path": "Vienna",
+            "state": "displayed",
+            "name": "Vienna"
+          },
+          {
+            "count": 1609,
+            "path": "Oakland",
+            "state": "displayed",
+            "name": "Oakland"
+          },
+          {
+            "count": 1502,
+            "path": "Bondi Beach",
+            "state": "displayed",
+            "name": "Bondi Beach"
+          },
+          {
+            "count": 1429,
+            "path": "Genève",
+            "state": "displayed",
+            "name": "Genève"
+          },
+          {
+            "count": 1245,
+            "path": "Bruxelles",
+            "state": "displayed",
+            "name": "Bruxelles"
+          },
+          {
+            "count": 1183,
+            "path": "Ville de Québec",
+            "state": "displayed",
+            "name": "Ville de Québec"
+          },
+          {
+            "count": 1077,
+            "path": "Long Beach",
+            "state": "displayed",
+            "name": "Long Beach"
+          },
+          {
+            "count": 1041,
+            "path": "Athens",
+            "state": "displayed",
+            "name": "Athens"
+          },
+          {
+            "count": 1026,
+            "path": "Antwerpen",
+            "state": "displayed",
+            "name": "Antwerpen"
+          },
+          {
+            "count": 1016,
+            "path": "Ixelles",
+            "state": "displayed",
+            "name": "Ixelles"
+          },
+          {
+            "count": 992,
+            "path": "Santa Monica",
+            "state": "displayed",
+            "name": "Santa Monica"
+          },
+          {
+            "count": 991,
+            "path": "Pollença",
+            "state": "displayed",
+            "name": "Pollença"
+          },
+          {
+            "count": 939,
+            "path": "West Hollywood",
+            "state": "displayed",
+            "name": "West Hollywood"
+          },
+          {
+            "count": 914,
+            "path": "Manly",
+            "state": "displayed",
+            "name": "Manly"
+          },
+          {
+            "count": 862,
+            "path": "Alcúdia",
+            "state": "displayed",
+            "name": "Alcúdia"
+          },
+          {
+            "count": 850,
+            "path": "Greater London",
+            "state": "displayed",
+            "name": "Greater London"
+          },
+          {
+            "count": 810,
+            "path": "Manchester",
+            "state": "displayed",
+            "name": "Manchester"
+          },
+          {
+            "count": 800,
+            "path": "Surry Hills",
+            "state": "displayed",
+            "name": "Surry Hills"
+          },
+          {
+            "count": 728,
+            "path": "Palma de Mallorca",
+            "state": "displayed",
+            "name": "Palma de Mallorca"
+          },
+          {
+            "count": 725,
+            "path": "Bondi",
+            "state": "displayed",
+            "name": "Bondi"
+          },
+          {
+            "count": 689,
+            "path": "Richmond",
+            "state": "displayed",
+            "name": "Richmond"
+          },
+          {
+            "count": 672,
+            "path": "Coogee",
+            "state": "displayed",
+            "name": "Coogee"
+          },
+          {
+            "count": 654,
+            "path": "Saint-Gilles",
+            "state": "displayed",
+            "name": "Saint-Gilles"
+          },
+          {
+            "count": 631,
+            "path": "Southbank",
+            "state": "displayed",
+            "name": "Southbank"
+          },
+          {
+            "count": 614,
+            "path": "Bronx",
+            "state": "displayed",
+            "name": "Bronx"
+          },
+          {
+            "count": 598,
+            "path": "Sydney",
+            "state": "displayed",
+            "name": "Sydney"
+          },
+          {
+            "count": 593,
+            "path": "South Yarra",
+            "state": "displayed",
+            "name": "South Yarra"
+          },
+          {
+            "count": 588,
+            "path": "Darlinghurst",
+            "state": "displayed",
+            "name": "Darlinghurst"
+          },
+          {
+            "count": 588,
+            "path": "North Bondi",
+            "state": "displayed",
+            "name": "North Bondi"
+          },
+          {
+            "count": 588,
+            "path": "Pasadena",
+            "state": "displayed",
+            "name": "Pasadena"
+          },
+          {
+            "count": 570,
+            "path": "Randwick",
+            "state": "displayed",
+            "name": "Randwick"
+          },
+          {
+            "count": 529,
+            "path": "Saint Kilda",
+            "state": "displayed",
+            "name": "Saint Kilda"
+          },
+          {
+            "count": 514,
+            "path": "Marina del Rey",
+            "state": "displayed",
+            "name": "Marina del Rey"
+          },
+          {
+            "count": 504,
+            "path": "Beverly Hills",
+            "state": "displayed",
+            "name": "Beverly Hills"
+          },
+          {
+            "count": 504,
+            "path": "Byron Bay",
+            "state": "displayed",
+            "name": "Byron Bay"
+          },
+          {
+            "count": 475,
+            "path": "Paddington",
+            "state": "displayed",
+            "name": "Paddington"
+          },
+          {
+            "count": 451,
+            "path": "Santa Cruz",
+            "state": "displayed",
+            "name": "Santa Cruz"
+          },
+          {
+            "count": 443,
+            "path": "Newtown",
+            "state": "displayed",
+            "name": "Newtown"
+          },
+          {
+            "count": 439,
+            "path": "Redfern",
+            "state": "displayed",
+            "name": "Redfern"
+          },
+          {
+            "count": 434,
+            "path": "Malibu",
+            "state": "displayed",
+            "name": "Malibu"
+          },
+          {
+            "count": 431,
+            "path": "Geneva",
+            "state": "displayed",
+            "name": "Geneva"
+          },
+          {
+            "count": 423,
+            "path": "Québec",
+            "state": "displayed",
+            "name": "Québec"
+          },
+          {
+            "count": 397,
+            "path": "Brussels",
+            "state": "displayed",
+            "name": "Brussels"
+          },
+          {
+            "count": 380,
+            "path": "Schaerbeek",
+            "state": "displayed",
+            "name": "Schaerbeek"
+          },
+          {
+            "count": 371,
+            "path": "Mosman",
+            "state": "displayed",
+            "name": "Mosman"
+          },
+          {
+            "count": 365,
+            "path": "Maroubra",
+            "state": "displayed",
+            "name": "Maroubra"
+          },
+          {
+            "count": 363,
+            "path": "Bondi Junction",
+            "state": "displayed",
+            "name": "Bondi Junction"
+          },
+          {
+            "count": 363,
+            "path": "Llucmajor",
+            "state": "displayed",
+            "name": "Llucmajor"
+          },
+          {
+            "count": 348,
+            "path": "Etterbeek",
+            "state": "displayed",
+            "name": "Etterbeek"
+          },
+          {
+            "count": 344,
+            "path": "Rowland Heights",
+            "state": "displayed",
+            "name": "Rowland Heights"
+          },
+          {
+            "count": 341,
+            "path": "Bronte",
+            "state": "displayed",
+            "name": "Bronte"
+          },
+          {
+            "count": 339,
+            "path": "Αθήνα",
+            "state": "displayed",
+            "name": "Αθήνα"
+          },
+          {
+            "count": 327,
+            "path": "Potts Point",
+            "state": "displayed",
+            "name": "Potts Point"
+          },
+          {
+            "count": 326,
+            "path": "Fitzroy",
+            "state": "displayed",
+            "name": "Fitzroy"
+          },
+          {
+            "count": 323,
+            "path": "Carlton",
+            "state": "displayed",
+            "name": "Carlton"
+          },
+          {
+            "count": 317,
+            "path": "Brunswick",
+            "state": "displayed",
+            "name": "Brunswick"
+          },
+          {
+            "count": 317,
+            "path": "Glendale",
+            "state": "displayed",
+            "name": "Glendale"
+          },
+          {
+            "count": 312,
+            "path": "Redondo Beach",
+            "state": "displayed",
+            "name": "Redondo Beach"
+          },
+          {
+            "count": 285,
+            "path": "Elwood",
+            "state": "displayed",
+            "name": "Elwood"
+          },
+          {
+            "count": 279,
+            "path": "Suffolk Park",
+            "state": "displayed",
+            "name": "Suffolk Park"
+          },
+          {
+            "count": 275,
+            "path": "Forest",
+            "state": "displayed",
+            "name": "Forest"
+          },
+          {
+            "count": 272,
+            "path": "Manacor",
+            "state": "displayed",
+            "name": "Manacor"
+          },
+          {
+            "count": 270,
+            "path": "Campos",
+            "state": "displayed",
+            "name": "Campos"
+          },
+          {
+            "count": 266,
+            "path": "Can Picafort",
+            "state": "displayed",
+            "name": "Can Picafort"
+          },
+          {
+            "count": 263,
+            "path": "Burbank",
+            "state": "displayed",
+            "name": "Burbank"
+          },
+          {
+            "count": 259,
+            "path": "Croydon",
+            "state": "displayed",
+            "name": "Croydon"
+          },
+          {
+            "count": 259,
+            "path": "Kensington",
+            "state": "displayed",
+            "name": "Kensington"
+          },
+          {
+            "count": 259,
+            "path": "Santanyí",
+            "state": "displayed",
+            "name": "Santanyí"
+          },
+          {
+            "count": 255,
+            "path": "Culver City",
+            "state": "displayed",
+            "name": "Culver City"
+          },
+          {
+            "count": 255,
+            "path": "Twickenham",
+            "state": "displayed",
+            "name": "Twickenham"
+          },
+          {
+            "count": 251,
+            "path": "Pyrmont",
+            "state": "displayed",
+            "name": "Pyrmont"
+          },
+          {
+            "count": 250,
+            "path": "Sóller",
+            "state": "displayed",
+            "name": "Sóller"
+          },
+          {
+            "count": 249,
+            "path": "Docklands",
+            "state": "displayed",
+            "name": "Docklands"
+          },
+          {
+            "count": 249,
+            "path": "Waterloo",
+            "state": "displayed",
+            "name": "Waterloo"
+          },
+          {
+            "count": 248,
+            "path": "Staten Island",
+            "state": "displayed",
+            "name": "Staten Island"
+          },
+          {
+            "count": 246,
+            "path": "Bellevue Hill",
+            "state": "displayed",
+            "name": "Bellevue Hill"
+          },
+          {
+            "count": 246,
+            "path": "Muro",
+            "state": "displayed",
+            "name": "Muro"
+          },
+          {
+            "count": 245,
+            "path": "Uccle",
+            "state": "displayed",
+            "name": "Uccle"
+          },
+          {
+            "count": 241,
+            "path": "Arcadia",
+            "state": "displayed",
+            "name": "Arcadia"
+          },
+          {
+            "count": 240,
+            "path": "St Kilda",
+            "state": "displayed",
+            "name": "St Kilda"
+          },
+          {
+            "count": 238,
+            "path": "North Melbourne",
+            "state": "displayed",
+            "name": "North Melbourne"
+          },
+          {
+            "count": 232,
+            "path": "Felanitx",
+            "state": "displayed",
+            "name": "Felanitx"
+          },
+          {
+            "count": 227,
+            "path": "Dee Why",
+            "state": "displayed",
+            "name": "Dee Why"
+          },
+          {
+            "count": 222,
+            "path": "Glebe",
+            "state": "displayed",
+            "name": "Glebe"
+          },
+          {
+            "count": 222,
+            "path": "Rose Bay",
+            "state": "displayed",
+            "name": "Rose Bay"
+          },
+          {
+            "count": 219,
+            "path": "Brussel",
+            "state": "displayed",
+            "name": "Brussel"
+          },
+          {
+            "count": 211,
+            "path": "Astoria",
+            "state": "displayed",
+            "name": "Astoria"
+          },
+          {
+            "count": 208,
+            "path": "Camperdown",
+            "state": "displayed",
+            "name": "Camperdown"
+          },
+          {
+            "count": 205,
+            "path": "Northcote",
+            "state": "displayed",
+            "name": "Northcote"
+          },
+          {
+            "count": 205,
+            "path": "Prahran",
+            "state": "displayed",
+            "name": "Prahran"
+          },
+          {
+            "count": 205,
+            "path": "香港",
+            "state": "displayed",
+            "name": "香港"
+          },
+          {
+            "count": 204,
+            "path": "Port Melbourne",
+            "state": "displayed",
+            "name": "Port Melbourne"
+          },
+          {
+            "count": 202,
+            "path": "Inca",
+            "state": "displayed",
+            "name": "Inca"
+          },
+          {
+            "count": 201,
+            "path": "Fitzroy North",
+            "state": "displayed",
+            "name": "Fitzroy North"
+          },
+          {
+            "count": 198,
+            "path": "Amsterdam-Zuidoost",
+            "state": "displayed",
+            "name": "Amsterdam-Zuidoost"
+          },
+          {
+            "count": 198,
+            "path": "Lido",
+            "state": "displayed",
+            "name": "Lido"
+          },
+          {
+            "count": 198,
+            "path": "Sa Pobla",
+            "state": "displayed",
+            "name": "Sa Pobla"
+          },
+          {
+            "count": 193,
+            "path": "Antwerp",
+            "state": "displayed",
+            "name": "Antwerp"
+          },
+          {
+            "count": 193,
+            "path": "Erskineville",
+            "state": "displayed",
+            "name": "Erskineville"
+          },
+          {
+            "count": 193,
+            "path": "Londres",
+            "state": "displayed",
+            "name": "Londres"
+          },
+          {
+            "count": 192,
+            "path": "Illes Balears",
+            "state": "displayed",
+            "name": "Illes Balears"
+          },
+          {
+            "count": 192,
+            "path": "South Melbourne",
+            "state": "displayed",
+            "name": "South Melbourne"
+          },
+          {
+            "count": 190,
+            "path": "Manhattan Beach",
+            "state": "displayed",
+            "name": "Manhattan Beach"
+          },
+          {
+            "count": 189,
+            "path": "Lido di Ostia",
+            "state": "displayed",
+            "name": "Lido di Ostia"
+          },
+          {
+            "count": 188,
+            "path": "Clovelly",
+            "state": "displayed",
+            "name": "Clovelly"
+          },
+          {
+            "count": 188,
+            "path": "Freshwater",
+            "state": "displayed",
+            "name": "Freshwater"
+          },
+          {
+            "count": 187,
+            "path": "Harrow",
+            "state": "displayed",
+            "name": "Harrow"
+          },
+          {
+            "count": 186,
+            "path": "Anderlecht",
+            "state": "displayed",
+            "name": "Anderlecht"
+          },
+          {
+            "count": 186,
+            "path": "Collingwood",
+            "state": "displayed",
+            "name": "Collingwood"
+          },
+          {
+            "count": 186,
+            "path": "Newport",
+            "state": "displayed",
+            "name": "Newport"
+          },
+          {
+            "count": 186,
+            "path": "Woollahra",
+            "state": "displayed",
+            "name": "Woollahra"
+          },
+          {
+            "count": 181,
+            "path": "Alexandria",
+            "state": "displayed",
+            "name": "Alexandria"
+          },
+          {
+            "count": 180,
+            "path": "Avalon Beach",
+            "state": "displayed",
+            "name": "Avalon Beach"
+          },
+          {
+            "count": 180,
+            "path": "Topanga",
+            "state": "displayed",
+            "name": "Topanga"
+          },
+          {
+            "count": 179,
+            "path": "Cremorne",
+            "state": "displayed",
+            "name": "Cremorne"
+          },
+          {
+            "count": 179,
+            "path": "Elizabeth Bay",
+            "state": "displayed",
+            "name": "Elizabeth Bay"
+          },
+          {
+            "count": 178,
+            "path": "Brunswick East",
+            "state": "displayed",
+            "name": "Brunswick East"
+          },
+          {
+            "count": 178,
+            "path": "Chippendale",
+            "state": "displayed",
+            "name": "Chippendale"
+          },
+          {
+            "count": 178,
+            "path": "Edgware",
+            "state": "displayed",
+            "name": "Edgware"
+          },
+          {
+            "count": 178,
+            "path": "Inglewood",
+            "state": "displayed",
+            "name": "Inglewood"
+          },
+          {
+            "count": 177,
+            "path": "Marrickville",
+            "state": "displayed",
+            "name": "Marrickville"
+          },
+          {
+            "count": 176,
+            "path": "Colònia de Sant Jordi",
+            "state": "displayed",
+            "name": "Colònia de Sant Jordi"
+          },
+          {
+            "count": 175,
+            "path": "Ultimo",
+            "state": "displayed",
+            "name": "Ultimo"
+          },
+          {
+            "count": 172,
+            "path": "Wembley",
+            "state": "displayed",
+            "name": "Wembley"
+          },
+          {
+            "count": 171,
+            "path": "Ilford",
+            "state": "displayed",
+            "name": "Ilford"
+          },
+          {
+            "count": 170,
+            "path": "Paris-19E-Arrondissement",
+            "state": "displayed",
+            "name": "Paris-19E-Arrondissement"
+          },
+          {
+            "count": 167,
+            "path": "Neutral Bay",
+            "state": "displayed",
+            "name": "Neutral Bay"
+          },
+          {
+            "count": 166,
+            "path": "Fairlight",
+            "state": "displayed",
+            "name": "Fairlight"
+          },
+          {
+            "count": 166,
+            "path": "Kingston upon Thames",
+            "state": "displayed",
+            "name": "Kingston upon Thames"
+          },
+          {
+            "count": 165,
+            "path": "Andratx",
+            "state": "displayed",
+            "name": "Andratx"
+          },
+          {
+            "count": 162,
+            "path": "Balmain",
+            "state": "displayed",
+            "name": "Balmain"
+          },
+          {
+            "count": 162,
+            "path": "North Sydney",
+            "state": "displayed",
+            "name": "North Sydney"
+          },
+          {
+            "count": 161,
+            "path": "Abbotsford",
+            "state": "displayed",
+            "name": "Abbotsford"
+          },
+          {
+            "count": 161,
+            "path": "Torrance",
+            "state": "displayed",
+            "name": "Torrance"
+          },
+          {
+            "count": 159,
+            "path": "Alcudia",
+            "state": "displayed",
+            "name": "Alcudia"
+          },
+          {
+            "count": 159,
+            "path": "Altadena",
+            "state": "displayed",
+            "name": "Altadena"
+          },
+          {
+            "count": 155,
+            "path": "Calvià",
+            "state": "displayed",
+            "name": "Calvià"
+          },
+          {
+            "count": 152,
+            "path": "Ballsbridge",
+            "state": "displayed",
+            "name": "Ballsbridge"
+          },
+          {
+            "count": 150,
+            "path": "Alhambra",
+            "state": "displayed",
+            "name": "Alhambra"
+          },
+          {
+            "count": 148,
+            "path": "Paris-15E-Arrondissement",
+            "state": "displayed",
+            "name": "Paris-15E-Arrondissement"
+          },
+          {
+            "count": 147,
+            "path": "Saint-Josse-ten-Noode",
+            "state": "displayed",
+            "name": "Saint-Josse-ten-Noode"
+          },
+          {
+            "count": 147,
+            "path": "San Gabriel",
+            "state": "displayed",
+            "name": "San Gabriel"
+          },
+          {
+            "count": 147,
+            "path": "Tamarama",
+            "state": "displayed",
+            "name": "Tamarama"
+          },
+          {
+            "count": 146,
+            "path": "Zetland",
+            "state": "displayed",
+            "name": "Zetland"
+          },
+          {
+            "count": 145,
+            "path": "La Jolla",
+            "state": "displayed",
+            "name": "La Jolla"
+          },
+          {
+            "count": 144,
+            "path": "Quebec",
+            "state": "displayed",
+            "name": "Quebec"
+          },
+          {
+            "count": 141,
+            "path": "Vaucluse",
+            "state": "displayed",
+            "name": "Vaucluse"
+          },
+          {
+            "count": 140,
+            "path": "Waverley",
+            "state": "displayed",
+            "name": "Waverley"
+          },
+          {
+            "count": 137,
+            "path": "Bromley",
+            "state": "displayed",
+            "name": "Bromley"
+          },
+          {
+            "count": 137,
+            "path": "Hermosa Beach",
+            "state": "displayed",
+            "name": "Hermosa Beach"
+          },
+          {
+            "count": 137,
+            "path": "Hong Kong Island",
+            "state": "displayed",
+            "name": "Hong Kong Island"
+          },
+          {
+            "count": 136,
+            "path": "East Melbourne",
+            "state": "displayed",
+            "name": "East Melbourne"
+          },
+          {
+            "count": 133,
+            "path": "Double Bay",
+            "state": "displayed",
+            "name": "Double Bay"
+          },
+          {
+            "count": 133,
+            "path": "Rathmines",
+            "state": "displayed",
+            "name": "Rathmines"
+          },
+          {
+            "count": 133,
+            "path": "Rushcutters Bay",
+            "state": "displayed",
+            "name": "Rushcutters Bay"
+          },
+          {
+            "count": 132,
+            "path": "Capdepera",
+            "state": "displayed",
+            "name": "Capdepera"
+          },
+          {
+            "count": 132,
+            "path": "Monterey Park",
+            "state": "displayed",
+            "name": "Monterey Park"
+          },
+          {
+            "count": 131,
+            "path": "Queenscliff",
+            "state": "displayed",
+            "name": "Queenscliff"
+          },
+          {
+            "count": 131,
+            "path": "Trento",
+            "state": "displayed",
+            "name": "Trento"
+          },
+          {
+            "count": 131,
+            "path": "Tsim Sha Tsui",
+            "state": "displayed",
+            "name": "Tsim Sha Tsui"
+          },
+          {
+            "count": 130,
+            "path": "Annandale",
+            "state": "displayed",
+            "name": "Annandale"
+          }
+        ],
+        "name": "city"
+      },
+      {
+        "facets": [
+          {
+            "count": 478291,
+            "path": "Real Bed",
+            "state": "displayed",
+            "name": "Real Bed"
+          },
+          {
+            "count": 9736,
+            "path": "Pull-out Sofa",
+            "state": "displayed",
+            "name": "Pull-out Sofa"
+          },
+          {
+            "count": 3590,
+            "path": "Futon",
+            "state": "displayed",
+            "name": "Futon"
+          },
+          {
+            "count": 2013,
+            "path": "Couch",
+            "state": "displayed",
+            "name": "Couch"
+          },
+          {
+            "count": 1322,
+            "path": "Airbed",
+            "state": "displayed",
+            "name": "Airbed"
+          },
+          {
+            "count": 1,
+            "path": "9",
+            "state": "displayed",
+            "name": "9"
+          }
+        ],
+        "name": "bed_type"
+      },
+      {
+        "facets": [
+          {
+            "count": 134545,
+            "path": "United States",
+            "state": "displayed",
+            "name": "United States"
+          },
+          {
+            "count": 61041,
+            "path": "United Kingdom",
+            "state": "displayed",
+            "name": "United Kingdom"
+          },
+          {
+            "count": 56562,
+            "path": "France",
+            "state": "displayed",
+            "name": "France"
+          },
+          {
+            "count": 45844,
+            "path": "Spain",
+            "state": "displayed",
+            "name": "Spain"
+          },
+          {
+            "count": 40693,
+            "path": "Australia",
+            "state": "displayed",
+            "name": "Australia"
+          },
+          {
+            "count": 33146,
+            "path": "Italy",
+            "state": "displayed",
+            "name": "Italy"
+          },
+          {
+            "count": 30787,
+            "path": "Canada",
+            "state": "displayed",
+            "name": "Canada"
+          },
+          {
+            "count": 20576,
+            "path": "Germany",
+            "state": "displayed",
+            "name": "Germany"
+          },
+          {
+            "count": 20545,
+            "path": "Denmark",
+            "state": "displayed",
+            "name": "Denmark"
+          },
+          {
+            "count": 15181,
+            "path": "Netherlands",
+            "state": "displayed",
+            "name": "Netherlands"
+          },
+          {
+            "count": 7893,
+            "path": "Austria",
+            "state": "displayed",
+            "name": "Austria"
+          },
+          {
+            "count": 7419,
+            "path": "Belgium",
+            "state": "displayed",
+            "name": "Belgium"
+          },
+          {
+            "count": 6729,
+            "path": "Ireland",
+            "state": "displayed",
+            "name": "Ireland"
+          },
+          {
+            "count": 6423,
+            "path": "Hong Kong",
+            "state": "displayed",
+            "name": "Hong Kong"
+          },
+          {
+            "count": 5127,
+            "path": "Greece",
+            "state": "displayed",
+            "name": "Greece"
+          },
+          {
+            "count": 2381,
+            "path": "Switzerland",
+            "state": "displayed",
+            "name": "Switzerland"
+          },
+          {
+            "count": 51,
+            "path": "China",
+            "state": "displayed",
+            "name": "China"
+          },
+          {
+            "count": 2,
+            "path": "Mexico",
+            "state": "displayed",
+            "name": "Mexico"
+          },
+          {
+            "count": 2,
+            "path": "Vatican City",
+            "state": "displayed",
+            "name": "Vatican City"
+          },
+          {
+            "count": 1,
+            "path": "0",
+            "state": "displayed",
+            "name": "0"
+          },
+          {
+            "count": 1,
+            "path": "Cuba",
+            "state": "displayed",
+            "name": "Cuba"
+          },
+          {
+            "count": 1,
+            "path": "Uruguay",
+            "state": "displayed",
+            "name": "Uruguay"
+          },
+          {
+            "count": 1,
+            "path": "Vanuatu",
+            "state": "displayed",
+            "name": "Vanuatu"
+          }
+        ],
+        "name": "country"
+      },
+      {
+        "facets": [
+          {
+            "count": 463880,
+            "path": "Wireless Internet",
+            "state": "displayed",
+            "name": "Wireless Internet"
+          },
+          {
+            "count": 452736,
+            "path": "Kitchen",
+            "state": "displayed",
+            "name": "Kitchen"
+          },
+          {
+            "count": 439634,
+            "path": "Heating",
+            "state": "displayed",
+            "name": "Heating"
+          },
+          {
+            "count": 421224,
+            "path": "Essentials",
+            "state": "displayed",
+            "name": "Essentials"
+          },
+          {
+            "count": 363476,
+            "path": "Washer",
+            "state": "displayed",
+            "name": "Washer"
+          },
+          {
+            "count": 349307,
+            "path": "TV",
+            "state": "displayed",
+            "name": "TV"
+          },
+          {
+            "count": 306845,
+            "path": "Internet",
+            "state": "displayed",
+            "name": "Internet"
+          },
+          {
+            "count": 291036,
+            "path": "Shampoo",
+            "state": "displayed",
+            "name": "Shampoo"
+          },
+          {
+            "count": 290193,
+            "path": "Hangers",
+            "state": "displayed",
+            "name": "Hangers"
+          },
+          {
+            "count": 269651,
+            "path": "Smoke detector",
+            "state": "displayed",
+            "name": "Smoke detector"
+          },
+          {
+            "count": 265216,
+            "path": "Iron",
+            "state": "displayed",
+            "name": "Iron"
+          },
+          {
+            "count": 255088,
+            "path": "Family/kid friendly",
+            "state": "displayed",
+            "name": "Family/kid friendly"
+          },
+          {
+            "count": 248760,
+            "path": "Hair dryer",
+            "state": "displayed",
+            "name": "Hair dryer"
+          },
+          {
+            "count": 226459,
+            "path": "Laptop friendly workspace",
+            "state": "displayed",
+            "name": "Laptop friendly workspace"
+          },
+          {
+            "count": 214017,
+            "path": "Dryer",
+            "state": "displayed",
+            "name": "Dryer"
+          },
+          {
+            "count": 174887,
+            "path": "Air conditioning",
+            "state": "displayed",
+            "name": "Air conditioning"
+          },
+          {
+            "count": 142866,
+            "path": "Carbon monoxide detector",
+            "state": "displayed",
+            "name": "Carbon monoxide detector"
+          },
+          {
+            "count": 141232,
+            "path": "translation missing: en.hosting_amenity_50",
+            "state": "displayed",
+            "name": "translation missing: en.hosting_amenity_50"
+          },
+          {
+            "count": 138036,
+            "path": "Elevator in building",
+            "state": "displayed",
+            "name": "Elevator in building"
+          },
+          {
+            "count": 136176,
+            "path": "Cable TV",
+            "state": "displayed",
+            "name": "Cable TV"
+          },
+          {
+            "count": 130710,
+            "path": "First aid kit",
+            "state": "displayed",
+            "name": "First aid kit"
+          },
+          {
+            "count": 129147,
+            "path": "Buzzer/wireless intercom",
+            "state": "displayed",
+            "name": "Buzzer/wireless intercom"
+          },
+          {
+            "count": 128602,
+            "path": "Fire extinguisher",
+            "state": "displayed",
+            "name": "Fire extinguisher"
+          },
+          {
+            "count": 117481,
+            "path": "Free parking on premises",
+            "state": "displayed",
+            "name": "Free parking on premises"
+          },
+          {
+            "count": 109210,
+            "path": "translation missing: en.hosting_amenity_49",
+            "state": "displayed",
+            "name": "translation missing: en.hosting_amenity_49"
+          },
+          {
+            "count": 107495,
+            "path": "24-hour check-in",
+            "state": "displayed",
+            "name": "24-hour check-in"
+          },
+          {
+            "count": 62483,
+            "path": "Breakfast",
+            "state": "displayed",
+            "name": "Breakfast"
+          },
+          {
+            "count": 60048,
+            "path": "Safety card",
+            "state": "displayed",
+            "name": "Safety card"
+          },
+          {
+            "count": 59981,
+            "path": "Lock on bedroom door",
+            "state": "displayed",
+            "name": "Lock on bedroom door"
+          },
+          {
+            "count": 57608,
+            "path": "Pets allowed",
+            "state": "displayed",
+            "name": "Pets allowed"
+          },
+          {
+            "count": 55796,
+            "path": "Smoking allowed",
+            "state": "displayed",
+            "name": "Smoking allowed"
+          },
+          {
+            "count": 45710,
+            "path": "Pets live on this property",
+            "state": "displayed",
+            "name": "Pets live on this property"
+          },
+          {
+            "count": 42663,
+            "path": "Indoor fireplace",
+            "state": "displayed",
+            "name": "Indoor fireplace"
+          },
+          {
+            "count": 37692,
+            "path": "Smoke Detector",
+            "state": "displayed",
+            "name": "Smoke Detector"
+          },
+          {
+            "count": 36721,
+            "path": "Pool",
+            "state": "displayed",
+            "name": "Pool"
+          },
+          {
+            "count": 34228,
+            "path": "Wheelchair accessible",
+            "state": "displayed",
+            "name": "Wheelchair accessible"
+          },
+          {
+            "count": 30432,
+            "path": "Gym",
+            "state": "displayed",
+            "name": "Gym"
+          },
+          {
+            "count": 29877,
+            "path": "Family/Kid Friendly",
+            "state": "displayed",
+            "name": "Family/Kid Friendly"
+          },
+          {
+            "count": 27198,
+            "path": "Self Check-In",
+            "state": "displayed",
+            "name": "Self Check-In"
+          },
+          {
+            "count": 26617,
+            "path": "Hot tub",
+            "state": "displayed",
+            "name": "Hot tub"
+          },
+          {
+            "count": 25407,
+            "path": "Private entrance",
+            "state": "displayed",
+            "name": "Private entrance"
+          },
+          {
+            "count": 25304,
+            "path": "Doorman",
+            "state": "displayed",
+            "name": "Doorman"
+          },
+          {
+            "count": 24112,
+            "path": "Free Parking on Premises",
+            "state": "displayed",
+            "name": "Free Parking on Premises"
+          },
+          {
+            "count": 23245,
+            "path": "Air Conditioning",
+            "state": "displayed",
+            "name": "Air Conditioning"
+          },
+          {
+            "count": 22034,
+            "path": "Carbon Monoxide Detector",
+            "state": "displayed",
+            "name": "Carbon Monoxide Detector"
+          },
+          {
+            "count": 21773,
+            "path": "Fire Extinguisher",
+            "state": "displayed",
+            "name": "Fire Extinguisher"
+          },
+          {
+            "count": 21655,
+            "path": "Dog(s)",
+            "state": "displayed",
+            "name": "Dog(s)"
+          },
+          {
+            "count": 21495,
+            "path": "Suitable for events",
+            "state": "displayed",
+            "name": "Suitable for events"
+          },
+          {
+            "count": 20931,
+            "path": "Hair Dryer",
+            "state": "displayed",
+            "name": "Hair Dryer"
+          },
+          {
+            "count": 20093,
+            "path": "Cat(s)",
+            "state": "displayed",
+            "name": "Cat(s)"
+          },
+          {
+            "count": 19427,
+            "path": "Laptop Friendly Workspace",
+            "state": "displayed",
+            "name": "Laptop Friendly Workspace"
+          },
+          {
+            "count": 16920,
+            "path": "First Aid Kit",
+            "state": "displayed",
+            "name": "First Aid Kit"
+          },
+          {
+            "count": 14698,
+            "path": "24-Hour Check-in",
+            "state": "displayed",
+            "name": "24-Hour Check-in"
+          },
+          {
+            "count": 14119,
+            "path": "Lockbox",
+            "state": "displayed",
+            "name": "Lockbox"
+          },
+          {
+            "count": 13597,
+            "path": "Elevator in Building",
+            "state": "displayed",
+            "name": "Elevator in Building"
+          },
+          {
+            "count": 9615,
+            "path": "Buzzer/Wireless Intercom",
+            "state": "displayed",
+            "name": "Buzzer/Wireless Intercom"
+          },
+          {
+            "count": 8246,
+            "path": "Pets Allowed",
+            "state": "displayed",
+            "name": "Pets Allowed"
+          },
+          {
+            "count": 8110,
+            "path": "Safety Card",
+            "state": "displayed",
+            "name": "Safety Card"
+          },
+          {
+            "count": 7685,
+            "path": "Indoor Fireplace",
+            "state": "displayed",
+            "name": "Indoor Fireplace"
+          },
+          {
+            "count": 6488,
+            "path": "Bathtub",
+            "state": "displayed",
+            "name": "Bathtub"
+          },
+          {
+            "count": 6151,
+            "path": "Private living room",
+            "state": "displayed",
+            "name": "Private living room"
+          },
+          {
+            "count": 5999,
+            "path": "Keypad",
+            "state": "displayed",
+            "name": "Keypad"
+          },
+          {
+            "count": 5399,
+            "path": "Hot Tub",
+            "state": "displayed",
+            "name": "Hot Tub"
+          },
+          {
+            "count": 4694,
+            "path": "Wheelchair Accessible",
+            "state": "displayed",
+            "name": "Wheelchair Accessible"
+          },
+          {
+            "count": 4127,
+            "path": "Lock on Bedroom Door",
+            "state": "displayed",
+            "name": "Lock on Bedroom Door"
+          },
+          {
+            "count": 4028,
+            "path": "Doorman Entry",
+            "state": "displayed",
+            "name": "Doorman Entry"
+          },
+          {
+            "count": 4019,
+            "path": "Suitable for Events",
+            "state": "displayed",
+            "name": "Suitable for Events"
+          },
+          {
+            "count": 4002,
+            "path": "Smoking Allowed",
+            "state": "displayed",
+            "name": "Smoking Allowed"
+          },
+          {
+            "count": 3859,
+            "path": "Room-darkening shades",
+            "state": "displayed",
+            "name": "Room-darkening shades"
+          },
+          {
+            "count": 3035,
+            "path": "Children’s books and toys",
+            "state": "displayed",
+            "name": "Children’s books and toys"
+          },
+          {
+            "count": 2969,
+            "path": "High chair",
+            "state": "displayed",
+            "name": "High chair"
+          },
+          {
+            "count": 2788,
+            "path": "Other pet(s)",
+            "state": "displayed",
+            "name": "Other pet(s)"
+          },
+          {
+            "count": 2689,
+            "path": "Pack ’n Play/travel crib",
+            "state": "displayed",
+            "name": "Pack ’n Play/travel crib"
+          },
+          {
+            "count": 2607,
+            "path": "Smartlock",
+            "state": "displayed",
+            "name": "Smartlock"
+          },
+          {
+            "count": 2478,
+            "path": "Crib",
+            "state": "displayed",
+            "name": "Crib"
+          },
+          {
+            "count": 2009,
+            "path": "Refrigerator",
+            "state": "displayed",
+            "name": "Refrigerator"
+          },
+          {
+            "count": 1887,
+            "path": "Hot water",
+            "state": "displayed",
+            "name": "Hot water"
+          },
+          {
+            "count": 1879,
+            "path": "Bed linens",
+            "state": "displayed",
+            "name": "Bed linens"
+          },
+          {
+            "count": 1870,
+            "path": "Children’s dinnerware",
+            "state": "displayed",
+            "name": "Children’s dinnerware"
+          },
+          {
+            "count": 1851,
+            "path": "Dishes and silverware",
+            "state": "displayed",
+            "name": "Dishes and silverware"
+          },
+          {
+            "count": 1843,
+            "path": "Stove",
+            "state": "displayed",
+            "name": "Stove"
+          },
+          {
+            "count": 1820,
+            "path": "Cooking basics",
+            "state": "displayed",
+            "name": "Cooking basics"
+          },
+          {
+            "count": 1756,
+            "path": "Oven",
+            "state": "displayed",
+            "name": "Oven"
+          },
+          {
+            "count": 1480,
+            "path": "Coffee maker",
+            "state": "displayed",
+            "name": "Coffee maker"
+          },
+          {
+            "count": 1395,
+            "path": "Microwave",
+            "state": "displayed",
+            "name": "Microwave"
+          },
+          {
+            "count": 1332,
+            "path": "Babysitter recommendations",
+            "state": "displayed",
+            "name": "Babysitter recommendations"
+          },
+          {
+            "count": 1220,
+            "path": "Baby bath",
+            "state": "displayed",
+            "name": "Baby bath"
+          },
+          {
+            "count": 1212,
+            "path": "Dishwasher",
+            "state": "displayed",
+            "name": "Dishwasher"
+          },
+          {
+            "count": 1066,
+            "path": "Extra pillows and blankets",
+            "state": "displayed",
+            "name": "Extra pillows and blankets"
+          },
+          {
+            "count": 1051,
+            "path": "Game console",
+            "state": "displayed",
+            "name": "Game console"
+          },
+          {
+            "count": 1013,
+            "path": "Changing table",
+            "state": "displayed",
+            "name": "Changing table"
+          },
+          {
+            "count": 884,
+            "path": "Patio or balcony",
+            "state": "displayed",
+            "name": "Patio or balcony"
+          },
+          {
+            "count": 860,
+            "path": "Window guards",
+            "state": "displayed",
+            "name": "Window guards"
+          },
+          {
+            "count": 843,
+            "path": "Outlet covers",
+            "state": "displayed",
+            "name": "Outlet covers"
+          },
+          {
+            "count": 649,
+            "path": "Long term stays allowed",
+            "state": "displayed",
+            "name": "Long term stays allowed"
+          },
+          {
+            "count": 624,
+            "path": "Garden or backyard",
+            "state": "displayed",
+            "name": "Garden or backyard"
+          },
+          {
+            "count": 561,
+            "path": "Luggage dropoff allowed",
+            "state": "displayed",
+            "name": "Luggage dropoff allowed"
+          },
+          {
+            "count": 499,
+            "path": "Smart lock",
+            "state": "displayed",
+            "name": "Smart lock"
+          },
+          {
+            "count": 494,
+            "path": "Stair gates",
+            "state": "displayed",
+            "name": "Stair gates"
+          },
+          {
+            "count": 416,
+            "path": "Path to entrance lit at night",
+            "state": "displayed",
+            "name": "Path to entrance lit at night"
+          },
+          {
+            "count": 416,
+            "path": "Step-free access",
+            "state": "displayed",
+            "name": "Step-free access"
+          },
+          {
+            "count": 360,
+            "path": "BBQ grill",
+            "state": "displayed",
+            "name": "BBQ grill"
+          },
+          {
+            "count": 347,
+            "path": "Fireplace guards",
+            "state": "displayed",
+            "name": "Fireplace guards"
+          },
+          {
+            "count": 317,
+            "path": "Free parking on street",
+            "state": "displayed",
+            "name": "Free parking on street"
+          },
+          {
+            "count": 309,
+            "path": "Baby monitor",
+            "state": "displayed",
+            "name": "Baby monitor"
+          },
+          {
+            "count": 306,
+            "path": "Wide doorway",
+            "state": "displayed",
+            "name": "Wide doorway"
+          },
+          {
+            "count": 286,
+            "path": "Ethernet connection",
+            "state": "displayed",
+            "name": "Ethernet connection"
+          },
+          {
+            "count": 279,
+            "path": "Single level home",
+            "state": "displayed",
+            "name": "Single level home"
+          },
+          {
+            "count": 279,
+            "path": "Wide hallway clearance",
+            "state": "displayed",
+            "name": "Wide hallway clearance"
+          },
+          {
+            "count": 253,
+            "path": "Wide clearance to bed",
+            "state": "displayed",
+            "name": "Wide clearance to bed"
+          },
+          {
+            "count": 222,
+            "path": "Table corner guards",
+            "state": "displayed",
+            "name": "Table corner guards"
+          },
+          {
+            "count": 195,
+            "path": "Flat smooth pathway to front door",
+            "state": "displayed",
+            "name": "Flat smooth pathway to front door"
+          },
+          {
+            "count": 195,
+            "path": "Washer / Dryer",
+            "state": "displayed",
+            "name": "Washer / Dryer"
+          },
+          {
+            "count": 194,
+            "path": "Accessible-height bed",
+            "state": "displayed",
+            "name": "Accessible-height bed"
+          },
+          {
+            "count": 153,
+            "path": "Cleaning before checkout",
+            "state": "displayed",
+            "name": "Cleaning before checkout"
+          },
+          {
+            "count": 147,
+            "path": "Firm mattress",
+            "state": "displayed",
+            "name": "Firm mattress"
+          },
+          {
+            "count": 135,
+            "path": "Paid parking off premises",
+            "state": "displayed",
+            "name": "Paid parking off premises"
+          },
+          {
+            "count": 100,
+            "path": "Private bathroom",
+            "state": "displayed",
+            "name": "Private bathroom"
+          },
+          {
+            "count": 97,
+            "path": "Accessible-height toilet",
+            "state": "displayed",
+            "name": "Accessible-height toilet"
+          },
+          {
+            "count": 88,
+            "path": "Pocket wifi",
+            "state": "displayed",
+            "name": "Pocket wifi"
+          },
+          {
+            "count": 87,
+            "path": "Wide clearance to shower and toilet",
+            "state": "displayed",
+            "name": "Wide clearance to shower and toilet"
+          },
+          {
+            "count": 76,
+            "path": "Firm matress",
+            "state": "displayed",
+            "name": "Firm matress"
+          },
+          {
+            "count": 53,
+            "path": "Disabled parking spot",
+            "state": "displayed",
+            "name": "Disabled parking spot"
+          },
+          {
+            "count": 38,
+            "path": "Grab-rails for shower and toilet",
+            "state": "displayed",
+            "name": "Grab-rails for shower and toilet"
+          },
+          {
+            "count": 34,
+            "path": "Waterfront",
+            "state": "displayed",
+            "name": "Waterfront"
+          },
+          {
+            "count": 29,
+            "path": "EV charger",
+            "state": "displayed",
+            "name": "EV charger"
+          },
+          {
+            "count": 26,
+            "path": "Lake access",
+            "state": "displayed",
+            "name": "Lake access"
+          },
+          {
+            "count": 21,
+            "path": "Beach essentials",
+            "state": "displayed",
+            "name": "Beach essentials"
+          },
+          {
+            "count": 20,
+            "path": "Tub with shower bench",
+            "state": "displayed",
+            "name": "Tub with shower bench"
+          },
+          {
+            "count": 15,
+            "path": "Roll-in shower with shower bench or chair",
+            "state": "displayed",
+            "name": "Roll-in shower with shower bench or chair"
+          },
+          {
+            "count": 14,
+            "path": "Host greets you",
+            "state": "displayed",
+            "name": "Host greets you"
+          },
+          {
+            "count": 13,
+            "path": "Paid Parking Off Premises",
+            "state": "displayed",
+            "name": "Paid Parking Off Premises"
+          },
+          {
+            "count": 9,
+            "path": "Free Parking on Street",
+            "state": "displayed",
+            "name": "Free Parking on Street"
+          },
+          {
+            "count": 5,
+            "path": "Beachfront",
+            "state": "displayed",
+            "name": "Beachfront"
+          },
+          {
+            "count": 1,
+            "path": "9",
+            "state": "displayed",
+            "name": "9"
+          },
+          {
+            "count": 1,
+            "path": "Other",
+            "state": "displayed",
+            "name": "Other"
+          }
+        ],
+        "name": "amenities"
+      },
+      {
+        "facets": [
+          {
+            "count": 351404,
+            "path": "Apartment",
+            "state": "displayed",
+            "name": "Apartment"
+          },
+          {
+            "count": 93887,
+            "path": "House",
+            "state": "displayed",
+            "name": "House"
+          },
+          {
+            "count": 12080,
+            "path": "Bed & Breakfast",
+            "state": "displayed",
+            "name": "Bed & Breakfast"
+          },
+          {
+            "count": 10237,
+            "path": "Condominium",
+            "state": "displayed",
+            "name": "Condominium"
+          },
+          {
+            "count": 5933,
+            "path": "Loft",
+            "state": "displayed",
+            "name": "Loft"
+          },
+          {
+            "count": 5930,
+            "path": "Townhouse",
+            "state": "displayed",
+            "name": "Townhouse"
+          },
+          {
+            "count": 3235,
+            "path": "Other",
+            "state": "displayed",
+            "name": "Other"
+          },
+          {
+            "count": 3202,
+            "path": "Villa",
+            "state": "displayed",
+            "name": "Villa"
+          },
+          {
+            "count": 1639,
+            "path": "Guesthouse",
+            "state": "displayed",
+            "name": "Guesthouse"
+          },
+          {
+            "count": 1216,
+            "path": "Bungalow",
+            "state": "displayed",
+            "name": "Bungalow"
+          },
+          {
+            "count": 1204,
+            "path": "Dorm",
+            "state": "displayed",
+            "name": "Dorm"
+          },
+          {
+            "count": 967,
+            "path": "Boat",
+            "state": "displayed",
+            "name": "Boat"
+          },
+          {
+            "count": 788,
+            "path": "Cabin",
+            "state": "displayed",
+            "name": "Cabin"
+          },
+          {
+            "count": 641,
+            "path": "Chalet",
+            "state": "displayed",
+            "name": "Chalet"
+          },
+          {
+            "count": 514,
+            "path": "Boutique hotel",
+            "state": "displayed",
+            "name": "Boutique hotel"
+          },
+          {
+            "count": 416,
+            "path": "Serviced apartment",
+            "state": "displayed",
+            "name": "Serviced apartment"
+          },
+          {
+            "count": 395,
+            "path": "Hostel",
+            "state": "displayed",
+            "name": "Hostel"
+          },
+          {
+            "count": 381,
+            "path": "Camper/RV",
+            "state": "displayed",
+            "name": "Camper/RV"
+          },
+          {
+            "count": 178,
+            "path": "Timeshare",
+            "state": "displayed",
+            "name": "Timeshare"
+          },
+          {
+            "count": 142,
+            "path": "Guest suite",
+            "state": "displayed",
+            "name": "Guest suite"
+          },
+          {
+            "count": 99,
+            "path": "Tent",
+            "state": "displayed",
+            "name": "Tent"
+          },
+          {
+            "count": 73,
+            "path": "Vacation home",
+            "state": "displayed",
+            "name": "Vacation home"
+          },
+          {
+            "count": 64,
+            "path": "Castle",
+            "state": "displayed",
+            "name": "Castle"
+          },
+          {
+            "count": 64,
+            "path": "Treehouse",
+            "state": "displayed",
+            "name": "Treehouse"
+          },
+          {
+            "count": 44,
+            "path": "In-law",
+            "state": "displayed",
+            "name": "In-law"
+          },
+          {
+            "count": 37,
+            "path": "Earth House",
+            "state": "displayed",
+            "name": "Earth House"
+          },
+          {
+            "count": 29,
+            "path": "Hut",
+            "state": "displayed",
+            "name": "Hut"
+          },
+          {
+            "count": 29,
+            "path": "Yurt",
+            "state": "displayed",
+            "name": "Yurt"
+          },
+          {
+            "count": 18,
+            "path": "Entire Floor",
+            "state": "displayed",
+            "name": "Entire Floor"
+          },
+          {
+            "count": 16,
+            "path": "Tipi",
+            "state": "displayed",
+            "name": "Tipi"
+          },
+          {
+            "count": 13,
+            "path": "Nature lodge",
+            "state": "displayed",
+            "name": "Nature lodge"
+          },
+          {
+            "count": 12,
+            "path": "Cave",
+            "state": "displayed",
+            "name": "Cave"
+          },
+          {
+            "count": 12,
+            "path": "Lighthouse",
+            "state": "displayed",
+            "name": "Lighthouse"
+          },
+          {
+            "count": 9,
+            "path": "Casa particular",
+            "state": "displayed",
+            "name": "Casa particular"
+          },
+          {
+            "count": 9,
+            "path": "Train",
+            "state": "displayed",
+            "name": "Train"
+          },
+          {
+            "count": 7,
+            "path": "Island",
+            "state": "displayed",
+            "name": "Island"
+          },
+          {
+            "count": 6,
+            "path": "Igloo",
+            "state": "displayed",
+            "name": "Igloo"
+          },
+          {
+            "count": 4,
+            "path": "Parking Space",
+            "state": "displayed",
+            "name": "Parking Space"
+          },
+          {
+            "count": 2,
+            "path": "Pension (Korea)",
+            "state": "displayed",
+            "name": "Pension (Korea)"
+          },
+          {
+            "count": 2,
+            "path": "Ryokan (Japan)",
+            "state": "displayed",
+            "name": "Ryokan (Japan)"
+          },
+          {
+            "count": 1,
+            "path": "2017-04-02",
+            "state": "displayed",
+            "name": "2017-04-02"
+          },
+          {
+            "count": 1,
+            "path": "Car",
+            "state": "displayed",
+            "name": "Car"
+          },
+          {
+            "count": 1,
+            "path": "Heritage hotel (India)",
+            "state": "displayed",
+            "name": "Heritage hotel (India)"
+          },
+          {
+            "count": 1,
+            "path": "Plane",
+            "state": "displayed",
+            "name": "Plane"
+          },
+          {
+            "count": 1,
+            "path": "Van",
+            "state": "displayed",
+            "name": "Van"
+          }
+        ],
+        "name": "property_type"
+      },
+      {
+        "facets": [
+          {
+            "count": 313707,
+            "path": "Entire home/apt",
+            "state": "displayed",
+            "name": "Entire home/apt"
+          },
+          {
+            "count": 172306,
+            "path": "Private room",
+            "state": "displayed",
+            "name": "Private room"
+          },
+          {
+            "count": 8939,
+            "path": "Shared room",
+            "state": "displayed",
+            "name": "Shared room"
+          },
+          {
+            "count": 1,
+            "path": "9",
+            "state": "displayed",
+            "name": "9"
+          }
+        ],
+        "name": "room_type"
+      }
+    ]
+  }

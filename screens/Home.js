@@ -16,21 +16,18 @@ class Home extends Component{
         super(props);
 
         this.state = {
-            eventsWeek: [],
-            eventsAfter: []
+            AppartementList: [],
         }
     }
 
     async componentDidMount() {
-        //let response = await EventsService.list();
-        let eventsWeek = await EventsService.getEventsThisWeek(10);
-        let eventsAfter = await EventsService.getEventsAfter();
-        this.setState({eventsWeek, eventsAfter});
+        let AppartementList = await EventsService.list();
+        this.setState({AppartementList});
     }
 
     render() {
 
-        let {eventsWeek, eventsAfter} = this.state;
+        let {AppartementList} = this.state;
         let {navigation} = this.props;
 
         return (
@@ -38,31 +35,13 @@ class Home extends Component{
 
                 <Title title={"Liste des appartements"}/>
 
-                {/*{
-                    events.map(item => {
-                        return (<EventBox key={item.id}/>)
-                    })
-                }*/}
-
                 <FlatList
-                    data={eventsWeek}
+                    data={AppartementList}
                     horizontal={true}
                     showsHorizontalScrollIndicator={false}
                     backgroundColor={"#FFF"}
                     keyExtractor={item => item.id}
                     renderItem={({item}) => <EventBox navigation={navigation} data={item.fields} horizontal={true}/>} />
-
-                <Title title={"Découvrez aussi les maisons"}/>
-
-                <FlatList
-                    data={eventsAfter}
-                    horizontal={true}
-                    showsHorizontalScrollIndicator={false}
-                    backgroundColor={"#FFF"}
-                    keyExtractor={item => item.id}
-                    renderItem={({item}) => <EventBox navigation={navigation} data={item.fields}/>} />
-
-
             </ScrollView>
         )
     }

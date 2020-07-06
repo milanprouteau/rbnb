@@ -35,7 +35,7 @@ class Splash extends Component{
         return (
             <View style={styles.container}>
                 <Animated.Image
-                    style={{opacity: fadeIn}}
+                    style={{marginHorizontal: 20}}
                     source={logo}
                 />
             </View>
@@ -54,7 +54,6 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: "#FFF"
+        backgroundColor: "#FFF",
     },
-
 });
