@@ -12,6 +12,7 @@ import {
 import Title from "../components/Title";
 import {updateFavoris} from "../actions/favoris.actions";
 import {connect} from 'react-redux';
+import PriceBox from '../components/PriceBox';
 
 
 class Details extends Component{
@@ -44,9 +45,9 @@ class Details extends Component{
     }
 
     goToLink(){
-        let {access_link} = this.state.data;
-        if(Linking.canOpenURL(access_link)){
-            Linking.openURL(access_link);
+        let {listing_url} = this.state.data;
+        if(Linking.canOpenURL(listing_url)){
+            Linking.openURL(listing_url);
         }
     }
 
@@ -61,7 +62,7 @@ class Details extends Component{
         this.setState({ isFavoris : !!favoris.includes(id) })
     }
 
-   /* addFavoris(){
+    addFavoris(){
         let {favoris} = this.props;
         let {id} = this.state.data;
 
@@ -79,53 +80,34 @@ class Details extends Component{
         favoris.splice(favoris.indexOf(id), 1);
         this.props.updateFavoris(favoris);
         this.setState({isFavoris: false});
-    }*/
+    }
 
     render() {
 
-        let {cover_url, title, description,
-            contact_name, contact_phone} = this.state.data;
+        let {xl_picture_url,
+             title,
+             description,
+             review_scores_accuracy,
+             accommodates,
+             price
+            } = this.state.data;
         let {short_description, isFavoris} = this.state;
 
 
         return (
             <ScrollView style={styles.container}>
 
-                <ImageBackground style={styles.headerImage} source={{uri: cover_url}}></ImageBackground>
-
+                <ImageBackground style={styles.headerImage} source={{uri: xl_picture_url}}></ImageBackground>
+                <PriceBox style={styles.dateBox} price={price} />
                 <View style={styles.body}>
                     <Title title={title}/>
-
-                    <View>
-                        {/*Badges de catégories*/}
-                    </View>
-
-                    {/*Box icon*/}
-
-                    <View>
-                        {/*Info du calendrier*/}
-                    </View>
-
-                    <Text>A propos</Text>
+                    <Text>Note: {review_scores_accuracy} / 10</Text>
+                    <Text>Peut accueillir jusqu'à {accommodates} personnes.</Text>
+                    <Text>Description:</Text>
                     <Text onPress={() => this.openDescription()}>{short_description}</Text>
-
-                    <Text>Organisateur</Text>
-                    <Text>{contact_name}</Text>
-                    <Text>{contact_phone}</Text>
-
-
-                    {/*Event similaires*/}
-
 
                     <Button title={isFavoris ? "Supprimer des favoris" : "Ajouter aux favoris"} onPress={() => this.addOrDeleteFavoris()}/>
 
-                    {/*{
-                        isFavoris ? <Button title={"Supprimer des favoris"} onPress={() => this.deleteFavoris()}/> :
-                            <Button title={"Ajouter aux favoris"} onPress={() => this.addFavoris()}/>
-                    }*/}
-
-
-                    {/*Bouton Link vers la réservation */}
                     <Button title={"Réservation"} onPress={() => this.goToLink()}/>
 
                 </View>
