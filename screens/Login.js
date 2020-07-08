@@ -1,76 +1,82 @@
 import React, {Component} from 'react';
-import {
-    View,
-    Text,
-    StyleSheet,
-    TextInput,
-    Button,
-    TouchableOpacity
-} from 'react-native';
-import tcomb from 'tcomb-form-native';
+import {Container, Content, Header, Form, Input, Item, Button, Label } from 'native-base';
+import * as firebase from 'firebase';
+import {StyleSheet, Text, View} from 'react-native';
 
-//Initialisation
-const Form = tcomb.form.Form;
-
-//Model
-const LoginModel = tcomb.struct({
-    email: tcomb.String,
-    password: tcomb.String
-});
-
-//Options
-const options = {
-    fields: {
-        email: {
-            label: "Mon email",
-        }
-    }
-};
 
 
 class Login extends Component{
 
     constructor(props) {
         super(props);
-        this.containerRef = React.createRef();
         this.state = {
-            email: 'test',
-            password: 'test'
+            email: '',
+            password: ''
         }
     }
 
-    handleChange(e, name){
-        this.setState({
-            [name]: e.nativeEvent.text
-        });
+    signUpUser = (email, password) => {
+        if (this.state.password.length < 5){
+            alert("Entrez au moins 5 caractères")
+            return;
+        }
+        else if(firebase.auth().createUserWithEmailAndPassword(email,password)){
+            this.props.navigation.navigate('Home');
+        }
+        
     }
 
-    connect(){
-        let validate = this.refs.form.validate();
-        console.log(validate);
-
-
-        let {email, password} = this.state;
-        if(email !== null && password !== null){
+    loginUser = (email, password) => {
+        if(firebase.auth().signInWithEmailAndPassword(email,password)){
             this.props.navigation.navigate('Home');
         }
     }
 
     render() {
         return (
-            <View ref={this.containerRef} style={styles.container}>
+            <Container style={styles.container}>
+                <Form>
+                    <Item floatingLabel>
+                        <Label>Email</Label>
+                        <Input
+                            autoCorrect={false}
+                            autoCapitalize="none"
+                            onChangeText={(email) => this.setState({email})}
+                        />
+                    </Item>
 
+                    <Item floatingLabel>
+                        <Label>Password</Label>
+                        <Input
+                            secureTextEntry={true}
+                            autoCorrect={false}
+                            autoCapitalize="none"
+                            onChangeText={(password) => this.setState({password})}
+                        />
+                    </Item>
 
-                <Form
-                    ref="form"
-                    type={LoginModel}
-                    options={options}
-                    value={this.state} />
+                    <Button 
+                        style= {{ marginTop: 10 }}
+                        full
+                        rounded
+                        success
+                        onPress = {()=> this.loginUser(this.state.email, this.state.password)}
+                    >
+                        <Text style={{ color: 'white' }}>Login</Text>
+                    </Button>
 
+                    <Button 
+                        style= {{ marginTop: 10 }}
+                        full
+                        rounded
+                        primary
+                        onPress = {()=> this.signUpUser(this.state.email, this.state.password)}
+                    >
+                        <Text style={{ color: 'white' }}>Sign up</Text>
+                    </Button>
 
-                <Button title={"Se connecter"} onPress={() => this.connect()}/>
-
-            </View>
+                </Form>
+            </Container>
         )
     }
 
@@ -79,14 +85,9 @@ class Login extends Component{
 const styles = StyleSheet.create({
     container: {
         flex: 1,
+        backgroundColor:'#FFF',
         justifyContent: "center",
-        alignItems: "center"
-    },
-    input: {
-        width: "100%",
-        fontSize: 20,
-        marginBottom: 20,
-        marginLeft: 20,
+        padding:10,
     }
 });
 

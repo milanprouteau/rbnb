@@ -15,6 +15,17 @@ import Details from "./screens/Details";
 import Profil from "./screens/Profil";
 import Search from "./screens/Search";
 import Login from "./screens/Login";
+import * as firebase from 'firebase';
+
+const firebaseConfig = {
+    apiKey: "AIzaSyAqg9mrXrJI1H-hplYJptff5K7ogvpYj7A",
+    authDomain: "rbnb-a870e.firebaseapp.com",
+    databaseURL: "https://rbnb-a870e.firebaseio.com",
+    storageBucket: "rbnb-a870e.appspot.com",
+}
+
+firebase.initializeApp(firebaseConfig);
+
 
 const persistConfig = {key: 'root', storage: AsyncStorage};
 const persistedReducer = persistReducer(persistConfig, rootReducer);
