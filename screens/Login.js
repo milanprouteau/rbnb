@@ -1,9 +1,7 @@
 import React, {Component} from 'react';
 import {Container, Content, Header, Form, Input, Item, Button, Label } from 'native-base';
 import * as firebase from 'firebase';
-import {StyleSheet, Text, View} from 'react-native';
-
-
+import {StyleSheet, Text, View,Alert} from 'react-native';
 
 class Login extends Component{
 
@@ -15,21 +13,32 @@ class Login extends Component{
         }
     }
 
+    validateEmail(email) {
+        let emailValid = email;
+            emailValid = value.match(i);
+            return emailValid;
+    }
+
     signUpUser = (email, password) => {
         if (this.state.password.length < 5){
-            alert("Entrez au moins 5 caractères")
+            alert("Le mot de passe doit contenir au moins 5 caractères")
             return;
         }
-        else if(firebase.auth().createUserWithEmailAndPassword(email,password)){
-            this.props.navigation.navigate('Home');
-        }
-        
+        firebase.auth().createUserWithEmailAndPassword(email,password)
+        .then(() => {
+           this.props.navigation.navigate('Home');           
+        }, (error) => {
+            Alert.alert(error.message);
+        });
     }
 
     loginUser = (email, password) => {
-        if(firebase.auth().signInWithEmailAndPassword(email,password)){
-            this.props.navigation.navigate('Home');
-        }
+       firebase.auth().signInWithEmailAndPassword(email,password)
+       .then(() => {
+                this.props.navigation.navigate('Home');           
+        }, (error) => {
+            Alert.alert(error.message);
+        });
     }
 
     render() {
