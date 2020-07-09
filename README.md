@@ -18,3 +18,4 @@ Il peut consulter plusieurs filtre tel que:
 - scroll vertical sur la page d'accueil
 - droit d'écriture lecture firebase -> base de données
 - Problème de version qui bug pour firebase, dernière mise à jour "variable atob" qui fait buggé
+- affichage edit/delete des rbnbs
