@@ -19,6 +19,7 @@ import Login from "./screens/Login";
 import * as firebase from 'firebase';
 import firestore from 'firebase/firestore'
 import rbnb from './screens/rbnb';
+import UpdateRbnb from './screens/UpdateRbnb';
 
 if (!global.btoa) { global.btoa = encode }
 if (!global.atob) { global.atob = decode }
@@ -116,6 +117,7 @@ const AppNavigator = createStackNavigator(
         Login: {screen: Login, navigationOptions: {headerShown: false}},
         Home: {screen: BottomNavigator, navigationOptions: {headerShown: false}},
         Rbnb: {screen: rbnb, navigationOptions: {headerShown: false}},
+        UpdateRbnb: {screen: UpdateRbnb, navigationOptions: {headerShown: false}},
         Details: {screen: Details, navigationOptions: {headerShown: false}},
     },
     {

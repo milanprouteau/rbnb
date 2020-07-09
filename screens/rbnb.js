@@ -49,6 +49,7 @@ class rbnb extends Component {
   }
 
   render() {
+    let {navigation} = this.props;
     if(this.state.isLoading){
       return(
         <View style={styles.preloader}>
@@ -81,6 +82,11 @@ class rbnb extends Component {
             color="#19AC52"
           />
         </View>
+        <Button
+            title='Liste des RBNB'
+            onPress={() => this.props.navigation.navigate('UpdateRbnb')}
+            color="#19AC52"
+          />
       </ScrollView>
     );
   }
@@ -106,6 +112,9 @@ const styles = StyleSheet.create({
     position: 'absolute',
     alignItems: 'center',
     justifyContent: 'center'
+  },
+  button: {
+    marginBottom: 10
   }
 })
 
